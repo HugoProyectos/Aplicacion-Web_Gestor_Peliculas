@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="864a278d-6d62-4017-99bb-404ac44ac79e" name="sprin-boot-peliculas" url="jdbc:postgresql://localhost/peliculas" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>

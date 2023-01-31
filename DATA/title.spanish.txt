@@ -1,0 +1,2100 @@
+titleId	ordering	title	region	language	types	attributes	isOriginalTitle
+tt0000010	11	La salida de la fábrica Lumière en Lyon	ES	\N	imdbDisplay	\N	0
+tt0000012	23	La llegada de un tren a la estación de La Ciotat	ES	\N	imdbDisplay	\N	0
+tt0000013	2	El desembarco del congreso de fotografía en Lyon	ES	\N	imdbDisplay	\N	0
+tt0000014	21	El regador regado	ES	\N	imdbDisplay	\N	0
+tt0000022	4	Los herreros	ES	\N	imdbDisplay	\N	0
+tt0000023	14	Baño en el mar	ES	\N	imdbDisplay	\N	0
+tt0000027	7	Plaza de los Cordeliers en Lyon	ES	\N	imdbDisplay	\N	0
+tt0000029	16	La comida del bebé	ES	\N	imdbDisplay	\N	0
+tt0000104	1	Bomberos en Lyon	ES	\N	imdbDisplay	\N	0
+tt0000165	1	Riña en un café	ES	\N	imdbDisplay	\N	0
+tt0000166	1	Salida de los trabajadores de la fábrica España Industrial	ES	\N	imdbDisplay	\N	0
+tt0000167	2	Salida de misa de doce del Pilar de Zaragoza	ES	\N	imdbDisplay	\N	0
+tt0000168	2	Salida del público de la iglesia parroquial de Santa María de Sans	ES	\N	imdbDisplay	\N	0
+tt0000189	1	Dorotea	ES	\N	imdbDisplay	\N	0
+tt0000200	1	Gran corrida de toros	ES	\N	imdbDisplay	\N	0
+tt0000206	1	Llegada de un tren a la estación de ferrocarril del Norte, de Barcelona	ES	\N	imdbDisplay	\N	0
+tt0000211	1	Sueños de un astrónomo	ES	\N	\N	\N	0
+tt0000211	7	La luna a un metro	ES	\N	\N	\N	0
+tt0000216	1	Visita de Doña María Cristina y Alfonso XIII a Barcelona	ES	\N	imdbDisplay	\N	0
+tt0000233	2	Choque de dos transatlánticos	ES	\N	imdbDisplay	\N	0
+tt0000235	7	La columna de fuego	ES	\N	\N	\N	0
+tt0000242	5	El diablo en el convento	ES	\N	imdbDisplay	\N	0
+tt0000250	1	Llegada del vapor Bellver a Mallorca	ES	\N	imdbDisplay	\N	0
+tt0000263	2	Vista de la entrada principal de la plaza de toros de Jerez, el segundo día de feria	ES	\N	imdbDisplay	\N	0
+tt0000301	1	Fausto y Margarita	ES	\N	imdbDisplay	\N	0
+tt0000322	2	Panorama de Barcelona: monumentos y fiestas	ES	\N	imdbDisplay	\N	0
+tt0000359	7	El hombre de la cabeza de goma	ES	\N	imdbDisplay	\N	0
+tt0000369	2	Fiestas de bicicletas para niños	ES	\N	\N	\N	0
+tt0000379	2	Rompeolas	ES	\N	alternative	\N	0
+tt0000379	4	Visita de la escuadra inglesa a Barcelona	ES	\N	imdbDisplay	\N	0
+tt0000382	1	Carnaval en las ramblas	ES	\N	imdbDisplay	\N	0
+tt0000383	2	Carreras de caballos en el hipódromo de Barcelona	ES	\N	imdbDisplay	\N	0
+tt0000407	1	Procesión de las hijas de María de la parroquia de Sans	ES	\N	imdbDisplay	\N	0
+tt0000417	20	Viaje a la Luna	ES	\N	imdbDisplay	\N	0
+tt0000428	2	Carreras de bicicletas en el parque	ES	\N	imdbDisplay	\N	0
+tt0000439	3	Asalto y robo al tren	ES	\N	imdbDisplay	\N	0
+tt0000441	3	Gulliver en el país de los gigantes	ES	\N	imdbDisplay	\N	0
+tt0000455	10	El melómano	ES	\N	imdbDisplay	\N	0
+tt0000463	1	Puerto de Barcelona	ES	\N	imdbDisplay	\N	0
+tt0000502	2	Bohemios	ES	\N	imdbDisplay	\N	0
+tt0000503	2	Corrida de beneficencia en Zaragoza, por Quinito y Montes	ES	\N	imdbDisplay	\N	0
+tt0000504	1	Coso y Paseo de Santa Engracia (Calles y plazas de Zaragoza)	ES	\N	imdbDisplay	\N	0
+tt0000504	3	Escenas callejeras	ES	\N	alternative	\N	0
+tt0000505	5	La caza de la peluca	ES	\N	\N	\N	0
+tt0000508	2	Desde el coso a la calle Cerdán (Calles y plazas de Zaragoza)	ES	\N	imdbDisplay	\N	0
+tt0000510	1	El dúo de la Africana	ES	\N	imdbDisplay	\N	0
+tt0000513	1	Gigantes y cabezudos por la calle de Alfonso	ES	\N	alternative	\N	0
+tt0000513	2	Gigantes y cabezudos	ES	\N	imdbDisplay	\N	0
+tt0000514	1	Los guapos de la Vaquería del Parque	ES	\N	imdbDisplay	\N	0
+tt0000515	1	L'hereu de ca'n Pruna	ES	ca	\N	\N	0
+tt0000515	2	El heredero de casa Pruna	ES	\N	dvd	\N	0
+tt0000516	7	El hotel eléctrico	ES	\N	imdbDisplay	\N	0
+tt0000517	3	El húsar de la guardia	ES	\N	imdbDisplay	\N	0
+tt0000518	1	Juanito el forzudo	ES	\N	imdbDisplay	\N	0
+tt0000527	2	Plaza de la Magdalena (Calles y plazas de Zaragoza)	ES	\N	imdbDisplay	\N	0
+tt0000528	4	Raffles, the Amateur Cracksman	ES	\N	imdbDisplay	\N	0
+tt0000530	2	Donem de menjar	ES	ca	\N	\N	0
+tt0000531	2	Los sitios de Chile	ES	\N	imdbDisplay	\N	0
+tt0000532	2	Torrero y la ribera (Calles y plazas de Zaragoza)	ES	\N	imdbDisplay	\N	0
+tt0000538	2	Bilbao, Portugalete y los Altos Hornos	ES	\N	imdbDisplay	\N	0
+tt0000542	1	Cerveza gratis	ES	\N	imdbDisplay	\N	0
+tt0000547	1	Ferias en San Sebastián y Cabalgata en la Ría	ES	\N	imdbDisplay	\N	0
+tt0000558	3	Los kikos	ES	\N	imdbDisplay	\N	0
+tt0000560	1	Ladrones burlados	ES	\N	imdbDisplay	\N	0
+tt0000572	1	Secreto de confesión	ES	\N	imdbDisplay	\N	0
+tt0000584	1	El ciego de la aldea	ES	\N	imdbDisplay	\N	0
+tt0000585	2	Concurso de sardanas en el parque Guell	ES	\N	imdbDisplay	\N	0
+tt0000593	1	Els tres tombs	ES	ca	alternative	\N	0
+tt0000593	3	Fiestas de San Antonio	ES	\N	imdbDisplay	\N	0
+tt0000607	2	La muerte del tirano	ES	\N	imdbDisplay	\N	0
+tt0000612	1	Procesión marítima en Santa Cristina	ES	\N	imdbDisplay	\N	0
+tt0000614	4	Satanas se divierte	ES	\N	\N	\N	0
+tt0000616	2	Romería a San Medín	ES	\N	imdbDisplay	\N	0
+tt0000622	2	Tierra baja	ES	\N	imdbDisplay	\N	0
+tt0000625	1	Villafranca: Fiestas del Drac y bailes típicos	ES	\N	imdbDisplay	\N	0
+tt0000632	2	Amor que mata	ES	\N	imdbDisplay	\N	0
+tt0000655	1	Los calzoncillos de Tony	ES	\N	imdbDisplay	\N	0
+tt0000657	1	Cursa de cavalls a l'Hipodrom	ES	ca	alternative	\N	0
+tt0000657	2	Carreras de caballos en el Hipodromo	ES	\N	alternative	\N	0
+tt0000657	4	Carreras de caballos de 1908	ES	\N	imdbDisplay	\N	0
+tt0000664	1	Los competidores	ES	\N	imdbDisplay	\N	0
+tt0000666	3	Corrida de toros con Antonio Fuentes	ES	\N	imdbDisplay	\N	0
+tt0000667	2	Corrida de toros con Ricardo Torres 'Bombita'	ES	\N	imdbDisplay	\N	0
+tt0000670	1	El curioso impertinente	ES	\N	imdbDisplay	\N	0
+tt0000673	1	La Dolores	ES	\N	imdbDisplay	\N	0
+tt0000674	2	Don Juan Tenorio	ES	\N	imdbDisplay	\N	0
+tt0000675	2	Don Quijote	ES	\N	imdbDisplay	\N	0
+tt0000676	1	Don Álvaro o la fuerza del sino	ES	\N	imdbDisplay	\N	0
+tt0000678	2	Excursión a Montserrat	ES	\N	imdbDisplay	\N	0
+tt0000678	3	Montserrat pintoresco	ES	\N	alternative	\N	0
+tt0000686	2	Fiestas del carnaval de 1908 en Barcelona	ES	\N	imdbDisplay	\N	0
+tt0000693	2	Gerona monumental	ES	\N	imdbDisplay	\N	0
+tt0000696	1	El guardia burlado	ES	\N	imdbDisplay	\N	0
+tt0000705	1	Inauguración de la exposición hispano-francesa	ES	\N	imdbDisplay	\N	0
+tt0000705	3	Inauguración de la exposición hispano-francesa de 1908 por su alteza real el infante Don Carlos	ES	\N	alternative	\N	0
+tt0000719	1	Mallorca, illa daurada	ES	ca	imdbDisplay	\N	0
+tt0000723	1	María Rosa	ES	\N	imdbDisplay	\N	0
+tt0000726	1	Monasterio de Poblet	ES	\N	imdbDisplay	\N	0
+tt0000739	2	El pastorcito de Torrente	ES	\N	imdbDisplay	\N	0
+tt0000741	3	Malasia	ES	\N	\N	\N	0
+tt0000761	1	Simulacro de bomberos en la Plaza de Cataluña, de Barcelona	ES	\N	imdbDisplay	\N	0
+tt0000776	2	La destruccion de Pompeya	ES	\N	\N	\N	0
+tt0000791	1	Amor heroico	ES	\N	imdbDisplay	\N	0
+tt0000799	1	Aventuras de Pepín	ES	\N	imdbDisplay	\N	0
+tt0000804	1	El barranco del lobo	ES	\N	imdbDisplay	\N	0
+tt0000805	1	Baño imprevisto	ES	\N	imdbDisplay	\N	0
+tt0000812	1	El blocao Velarde	ES	\N	imdbDisplay	\N	0
+tt0000814	2	La bocana de Mar Chica	ES	\N	imdbDisplay	\N	0
+tt0000820	1	Guerra de Melilla	ES	\N	\N	\N	0
+tt0000822	1	Celos gitanos	ES	\N	imdbDisplay	\N	0
+tt0000830	2	Corazón de madre	ES	\N	imdbDisplay	\N	0
+tt0000842	2	De Garraf a Barcelona	ES	\N	imdbDisplay	\N	0
+tt0000849	3	Dos guapos frente a frente	ES	\N	imdbDisplay	\N	0
+tt0000850	2	Los dos hermanos	ES	\N	imdbDisplay	\N	0
+tt0000859	1	Fabricación del corcho en Sant Feliu de Guixols	ES	\N	imdbDisplay	\N	0
+tt0000868	2	Fiestas de Santa Lucía - Belenes	ES	\N	imdbDisplay	\N	0
+tt0000869	2	Fiestas en La Garriga	ES	\N	imdbDisplay	\N	0
+tt0000885	3	Guzmán el Bueno	ES	\N	imdbDisplay	\N	0
+tt0000914	2	Industria del corcho	ES	\N	imdbDisplay	\N	0
+tt0000923	1	El joyero	ES	\N	imdbDisplay	\N	0
+tt0000926	2	Justicia de Felipe II	ES	\N	imdbDisplay	\N	0
+tt0000941	3	Locura de amor	ES	\N	imdbDisplay	\N	0
+tt0000959	1	Melilla y el Gurugu	ES	\N	imdbDisplay	\N	0
+tt0001003	2	Por un ratón	ES	\N	imdbDisplay	\N	0
+tt0001006	2	Primera carrera internacional de automóviles 'Peña-Rhin'	ES	\N	imdbDisplay	\N	0
+tt0001007	2	La primera y segunda casetas	ES	\N	imdbDisplay	\N	0
+tt0001010	1	Protección de un convoy de víveres en el puente de camellos	ES	\N	imdbDisplay	\N	0
+tt0001051	1	El sueño milagroso	ES	\N	imdbDisplay	\N	0
+tt0001068	1	Toma caseta Z	ES	\N	imdbDisplay	\N	0
+tt0001069	2	Toma del Gurugu	ES	\N	imdbDisplay	\N	0
+tt0001070	1	Tragedia torera	ES	\N	imdbDisplay	\N	0
+tt0001081	2	La vida en el campamento	ES	\N	imdbDisplay	\N	0
+tt0001113	2	Amor gitano	ES	\N	imdbDisplay	\N	0
+tt0001127	1	Baixant de la font del Gat	ES	\N	imdbDisplay	\N	0
+tt0001145	1	Carceleras	ES	\N	imdbDisplay	\N	0
+tt0001162	1	Un corpus de sangre	ES	\N	imdbDisplay	\N	0
+tt0001175	7	La dama de las camelias	ES	\N	\N	\N	0
+tt0001181	2	El diablo está en Zaragoza	ES	\N	imdbDisplay	\N	0
+tt0001184	2	Don Juan de Serrallonga	ES	\N	imdbDisplay	\N	0
+tt0001201	1	La esclusa	ES	\N	imdbDisplay	\N	0
+tt0001203	2	Excursión al Gombreny	ES	\N	imdbDisplay	\N	0
+tt0001204	2	La expiación	ES	\N	imdbDisplay	\N	0
+tt0001205	2	Fabricación del cemento Asland	ES	\N	imdbDisplay	\N	0
+tt0001209	1	Una farsa de colas	ES	\N	imdbDisplay	\N	0
+tt0001212	2	La diada d'en Pepet	ES	ca	\N	\N	0
+tt0001212	3	El día d'en Pepet	ES	ca	\N	\N	0
+tt0001218	1	Un alma reprobada	ES	\N	\N	\N	0
+tt0001218	5	Nicholas el Tonto	ES	\N	alternative	\N	0
+tt0001219	1	Flores y perlas	ES	\N	imdbDisplay	\N	0
+tt0001227	2	El fugitivo	ES	\N	imdbDisplay	\N	0
+tt0001239	1	Los guapos	ES	\N	imdbDisplay	\N	0
+tt0001246	1	La hija del guardacostas	ES	\N	imdbDisplay	\N	0
+tt0001256	5	La casa con las persianas echadas	ES	\N	imdbDisplay	\N	0
+tt0001265	5	En los estados fronterizos	ES	\N	imdbDisplay	\N	0
+tt0001271	2	Inundaciones en Lérida	ES	\N	imdbDisplay	\N	0
+tt0001276	2	Justicias del rey Don Pedro	ES	\N	imdbDisplay	\N	0
+tt0001295	1	Lucha fratricida o Nobleza aragonesa	ES	\N	imdbDisplay	\N	0
+tt0001296	2	La lucha por la divisa	ES	\N	imdbDisplay	\N	0
+tt0001301	1	Madre mía	ES	\N	imdbDisplay	\N	0
+tt0001305	2	La manta del caballo	ES	\N	imdbDisplay	\N	0
+tt0001314	6	Shyloch, ó el mercador de Venecia	ES	\N	\N	\N	0
+tt0001328	1	Montblanc la serra	ES	\N	imdbDisplay	\N	0
+tt0001329	1	El moscardón	ES	\N	imdbDisplay	\N	0
+tt0001355	1	Para domar la suegra	ES	\N	imdbDisplay	\N	0
+tt0001356	2	Parada militar en el paseo	ES	\N	imdbDisplay	\N	0
+tt0001364	1	El pobre Valbuena	ES	\N	imdbDisplay	\N	0
+tt0001366	2	Un porter model	ES	ca	\N	\N	0
+tt0001378	3	El rey Lear	ES	\N	\N	\N	0
+tt0001383	2	Ribera del Llobregat	ES	\N	imdbDisplay	\N	0
+tt0001392	2	Segunda carrera automovilista 'Peña-Rhin' (Mataró-Argentona)	ES	\N	imdbDisplay	\N	0
+tt0001411	1	Teatro de la naturaleza en Sabadell	ES	\N	imdbDisplay	\N	0
+tt0001476	2	Amor que mata	ES	\N	imdbDisplay	\N	0
+tt0001499	4	La batalla	ES	\N	imdbDisplay	\N	0
+tt0001527	13	La venganza del cámara de cine	ES	\N	video	\N	0
+tt0001532	2	Carmen o la hija del bandido	ES	\N	\N	\N	0
+tt0001534	2	Carnaval en Palamós	ES	\N	imdbDisplay	\N	0
+tt0001535	2	Castillo de Arampruña	ES	\N	imdbDisplay	\N	0
+tt0001573	1	De Gerona a Olot en ferrocarril (De Olot a Gerona en ferrocarril)	ES	\N	imdbDisplay	\N	0
+tt0001587	2	Don Pedro el Cruel	ES	\N	imdbDisplay	\N	0
+tt0001602	2	El fantasma del castillo	ES	\N	imdbDisplay	\N	0
+tt0001609	2	Feria de ganado en Villarrodona	ES	\N	imdbDisplay	\N	0
+tt0001610	2	Fiesta Mayor de Manresa	ES	\N	imdbDisplay	\N	0
+tt0001611	1	Fiestas del Sitio en Bilbao	ES	\N	imdbDisplay	\N	0
+tt0001612	2	Fiestas en La Bisbal	ES	\N	imdbDisplay	\N	0
+tt0001680	3	Su responsabilidad	ES	\N	imdbDisplay	\N	0
+tt0001681	3	Cumplió con su responsabilidad	ES	\N	imdbDisplay	\N	0
+tt0001705	2	Industrias textiles	ES	\N	imdbDisplay	\N	0
+tt0001740	10	Salvada por el teléfono	ES	\N	imdbDisplay	\N	0
+tt0001756	2	Lucha por la herencia	ES	\N	imdbDisplay	\N	0
+tt0001795	1	Monasterio de Caralps en Berga	ES	\N	imdbDisplay	\N	0
+tt0001796	2	Monasterio de Ripoll	ES	\N	imdbDisplay	\N	0
+tt0001815	2	On the Brink	ES	\N	imdbDisplay	\N	0
+tt0001845	3	Pulgarcito	ES	\N	imdbDisplay	\N	0
+tt0001881	2	Los siete niños de Écija o Los bandidos de Sierra Morena	ES	\N	imdbDisplay	\N	0
+tt0001913	3	Espadas y corazones	ES	\N	imdbDisplay	\N	0
+tt0001916	1	Tarragona monumental	ES	\N	imdbDisplay	\N	0
+tt0001965	2	Vicio y virtud	ES	\N	imdbDisplay	\N	0
+tt0002016	1	Los amantes de Teruel	ES	\N	imdbDisplay	\N	0
+tt0002019	1	Amor de bestia	ES	\N	imdbDisplay	\N	0
+tt0002033	3	Asesinato y entierro de Don José Canalejas	ES	\N	imdbDisplay	\N	0
+tt0002040	2	Las aventuras del Pollo Palomeque	ES	\N	imdbDisplay	\N	0
+tt0002046	2	La Barrera número 13	ES	\N	imdbDisplay	\N	0
+tt0002083	4	La caida de Troya	ES	\N	\N	\N	0
+tt0002091	1	Castillo de Ostalric	ES	\N	imdbDisplay	\N	0
+tt0002113	9	A la conquista del polo	ES	\N	\N	\N	0
+tt0002130	9	El infierno	ES	\N	imdbDisplay	\N	0
+tt0002156	1	Eclipse de sol	ES	\N	imdbDisplay	\N	0
+tt0002165	2	Excursión a San Lorenzo de Munt	ES	\N	imdbDisplay	\N	0
+tt0002180	1	Fiesta colombófila en el Tibidabo	ES	\N	imdbDisplay	\N	0
+tt0002194	2	Por el amor del Séptimo	ES	\N	imdbDisplay	\N	0
+tt0002199	5	Del pesebre a la cruz	ES	\N	\N	\N	0
+tt0002206	2	Joaquin Goerthal y el Secreto del Acero	ES	\N	alternative	\N	0
+tt0002303	1	El mal menor	ES	\N	\N	\N	0
+tt0002315	1	El lobo de la sierra	ES	\N	imdbDisplay	\N	0
+tt0002325	1	Lucha de corazones	ES	\N	imdbDisplay	\N	0
+tt0002334	1	La madre	ES	\N	imdbDisplay	\N	0
+tt0002335	1	Magda	ES	\N	imdbDisplay	\N	0
+tt0002350	3	La matanza	ES	\N	\N	\N	0
+tt0002354	3	Max y Juana desean hacerse actores	ES	\N	\N	\N	0
+tt0002372	2	Montseny, Viladrau y Tordera	ES	\N	imdbDisplay	\N	0
+tt0002423	17	Madame DuBarry	ES	\N	imdbDisplay	\N	0
+tt0002432	2	Los Pirineos de Port-Bou a Andorra	ES	\N	imdbDisplay	\N	0
+tt0002452	7	La Guerra de la Independencia	ES	\N	imdbDisplay	\N	0
+tt0002468	2	Aplec de Begues	ES	ca	\N	\N	0
+tt0002511	2	Los sueños de Palomeque	ES	\N	imdbDisplay	\N	0
+tt0002553	3	El enemigo invisible	ES	\N	\N	\N	0
+tt0002565	1	Los viveskis sin contrato	ES	\N	imdbDisplay	\N	0
+tt0002624	1	El amigo del alma	ES	\N	imdbDisplay	\N	0
+tt0002625	1	Ana Kadova	ES	\N	imdbDisplay	\N	0
+tt0002661	1	Barcelona bajo la nieve	ES	\N	imdbDisplay	\N	0
+tt0002676	2	El bello Arturo	ES	\N	imdbDisplay	\N	0
+tt0002679	4	Blanco contro negro	ES	\N	\N	\N	0
+tt0002699	2	The Bridge of Shadows	ES	\N	imdbDisplay	\N	0
+tt0002721	7	Los hermanos	ES	\N	imdbDisplay	\N	0
+tt0002739	4	Carmen	ES	\N	imdbDisplay	\N	0
+tt0002743	1	El Caín moderno	ES	\N	imdbDisplay	\N	0
+tt0002763	1	Corazón de presidiario	ES	\N	imdbDisplay	\N	0
+tt0002764	1	Corrida de feria de las fiestas del Pilar	ES	\N	imdbDisplay	\N	0
+tt0002765	1	Corrida de toros en Calatayud	ES	\N	imdbDisplay	\N	0
+tt0002771	1	El crimen del otro	ES	\N	imdbDisplay	\N	0
+tt0002790	1	De muerte a vida	ES	\N	imdbDisplay	\N	0
+tt0002811	4	Los dos buzos	ES	\N	\N	\N	0
+tt0002837	2	Fabricación del hielo	ES	\N	imdbDisplay	\N	0
+tt0002844	12	Fantómas a la sombra de la guillotina	ES	\N	imdbDisplay	\N	0
+tt0002858	1	Fiestas en Palafrugell	ES	\N	imdbDisplay	\N	0
+tt0002886	1	La fuerza del destino	ES	\N	imdbDisplay	\N	0
+tt0002888	1	Fulano de Tal se enamora de Manón	ES	\N	imdbDisplay	\N	0
+tt0002917	11	Vecinos de frontera	ES	\N	imdbDisplay	\N	0
+tt0002953	2	Herrerín y Ballesteros, en Alagón	ES	\N	imdbDisplay	\N	0
+tt0002958	1	El hijo del mar	ES	\N	imdbDisplay	\N	0
+tt0003009	1	Inauguración del autodromo de Sitges, y carreras	ES	\N	imdbDisplay	\N	0
+tt0003010	1	Incendio en el barrio de Montemolín, Zaragoza	ES	\N	imdbDisplay	\N	0
+tt0003022	5	Ivanhoe	ES	\N	imdbDisplay	\N	0
+tt0003037	18	Fantomas 2: Juve contra Fantomas	ES	\N	imdbDisplay	\N	0
+tt0003053	1	Laura y sus pretendientes	ES	\N	imdbDisplay	\N	0
+tt0003100	2	La luz que vuelve	ES	\N	imdbDisplay	\N	0
+tt0003113	1	Mala raza	ES	\N	imdbDisplay	\N	0
+tt0003124	2	Los marinos de papel	ES	\N	imdbDisplay	\N	0
+tt0003131	10	¡Maldita sea la guerra!	ES	\N	imdbDisplay	\N	0
+tt0003160	1	El modelo de virtudes	ES	\N	imdbDisplay	\N	0
+tt0003165	1	Fantomas 3: El muerto que mata	ES	\N	imdbDisplay	\N	0
+tt0003167	5	Hogar, dulce hogar	ES	\N	\N	\N	0
+tt0003218	2	Novillada de beneficencia en Zaragoza	ES	\N	imdbDisplay	\N	0
+tt0003294	2	Primera comunión de las alumnas de las Escuelas Pías	ES	\N	imdbDisplay	\N	0
+tt0003306	2	Los contrabandistas	ES	\N	imdbDisplay	\N	0
+tt0003350	1	Sangre gitana	ES	\N	\N	\N	0
+tt0003419	10	El estudiante de Praga	ES	\N	\N	\N	0
+tt0003465	1	Tonto de la huerta	ES	\N	imdbDisplay	\N	0
+tt0003466	4	Tony, El Violinista	ES	\N	imdbDisplay	\N	0
+tt0003471	5	Tráfico de almas	ES	\N	\N	\N	0
+tt0003472	2	Trampa y cartón	ES	\N	imdbDisplay	\N	0
+tt0003489	5	Los últimos días de Pompeya	ES	\N	\N	\N	0
+tt0003581	2	Zaragoza y sus monumentos	ES	\N	imdbDisplay	\N	0
+tt0003608	2	El alcalde de Zalamea	ES	\N	imdbDisplay	\N	0
+tt0003610	2	Alexia o La niña del misterio	ES	\N	imdbDisplay	\N	0
+tt0003619	1	Amigas siempre	ES	\N	imdbDisplay	\N	0
+tt0003621	2	Amor andaluz	ES	\N	imdbDisplay	\N	0
+tt0003623	1	La pescadora de Tosa	ES	\N	alternative	\N	0
+tt0003623	2	Amor de pescadora	ES	\N	imdbDisplay	\N	0
+tt0003629	2	Apuntes de la fiesta de la flor	ES	\N	imdbDisplay	\N	0
+tt0003643	1	La conciencia vengadora	ES	\N	imdbDisplay	\N	0
+tt0003679	1	El que no corre vuela	ES	\N	\N	reissue title	0
+tt0003679	22	Todo por un paraguas	ES	\N	\N	\N	0
+tt0003679	8	Charlot y el paraguas	ES	\N	\N	\N	0
+tt0003733	15	Charlot, sufragista	ES	\N	\N	\N	0
+tt0003737	2	Cabalgata de los mercados en Barcelona	ES	\N	imdbDisplay	\N	0
+tt0003738	2	El caballero Casarroja	ES	\N	imdbDisplay	\N	0
+tt0003740	19	Cabiria	ES	\N	imdbDisplay	\N	0
+tt0003742	2	Calatayud en fiestas	ES	\N	imdbDisplay	\N	0
+tt0003746	1	El calvario de un héroe	ES	\N	imdbDisplay	\N	0
+tt0003757	1	Catástrofe de Aguilón	ES	\N	imdbDisplay	\N	0
+tt0003758	11	Charlot, camarero	ES	\N	\N	\N	0
+tt0003758	1	Charlot en el cabaret	ES	\N	\N	\N	0
+tt0003760	14	Charlot y la sonámbula	ES	\N	\N	\N	0
+tt0003764	2	La chavala	ES	\N	imdbDisplay	\N	0
+tt0003794	2	Corrida de toros en Valencia	ES	\N	imdbDisplay	\N	0
+tt0003805	6	Un amor cruel	ES	\N	\N	\N	0
+tt0003807	2	El cuervo del campamento	ES	\N	imdbDisplay	\N	0
+tt0003808	1	La cueva vengadora	ES	\N	imdbDisplay	\N	0
+tt0003822	2	La danza fatal	ES	\N	imdbDisplay	\N	0
+tt0003832	1	La deuda del pasado	ES	\N	imdbDisplay	\N	0
+tt0003836	1	Diego Corrientes	ES	\N	imdbDisplay	\N	0
+tt0003863	20	Charlot, panadero	ES	\N	\N	\N	0
+tt0003863	22	Charlot, cocinero	ES	\N	\N	reissue title	0
+tt0003866	2	Un drama en Aragón	ES	\N	imdbDisplay	\N	0
+tt0003867	2	Un drama en la montaña	ES	\N	imdbDisplay	\N	0
+tt0003874	2	La echadora de cartas	ES	\N	imdbDisplay	\N	0
+tt0003887	1	Entre ruinas	ES	\N	imdbDisplay	\N	0
+tt0003897	14	Los Misterios de Nueva York	ES	\N	imdbDisplay	\N	0
+tt0003923	17	Charlot, pintor	ES	\N	\N	\N	0
+tt0003930	22	Fantomas 4: Fantomas contra Fantomas	ES	\N	imdbDisplay	\N	0
+tt0003934	8	El mazo de Charlot	ES	\N	\N	\N	0
+tt0003952	4	Fantomas 5: El falso magistrado	ES	\N	imdbDisplay	\N	0
+tt0003954	2	La fiesta del trigo	ES	\N	\N	\N	0
+tt0003955	2	Ferias en Tarragona: Coso Blanco	ES	\N	\N	\N	0
+tt0003960	1	En el país de los molinos	ES	\N	imdbDisplay	\N	0
+tt0003961	1	Charlot y el fuego	ES	\N	imdbDisplay	\N	0
+tt0003992	2	Fridolín	ES	\N	imdbDisplay	\N	0
+tt0003997	1	La fuerza del mal	ES	\N	imdbDisplay	\N	0
+tt0004007	16	Mabel y Charlot en las carreras	ES	\N	\N	\N	0
+tt0004011	11	Charlot tiene una mujer celosa	ES	\N	\N	\N	0
+tt0004021	2	La gitanilla	ES	\N	imdbDisplay	\N	0
+tt0004022	4	Cayo Julio César	ES	\N	\N	\N	0
+tt0004026	1	El golem	ES	\N	\N	\N	0
+tt0004034	2	Regatas en el puerto de Barcelona	ES	\N	\N	\N	0
+tt0004074	11	Charlot, ladrón elegante	ES	\N	\N	\N	0
+tt0004091	11	Charlot extremadamente elegante	ES	\N	imdbDisplay	\N	0
+tt0004091	21	Su pasatiempo favorito	ES	\N	alternative	\N	0
+tt0004100	2	Charlot domina el piano	ES	\N	\N	\N	0
+tt0004101	17	La nueva colocación de Charlot	ES	\N	\N	reissue title	0
+tt0004101	22	Charlot, faquín	ES	\N	\N	\N	0
+tt0004102	15	Charlot, en la edad de piedra	ES	\N	alternative	\N	0
+tt0004102	1	El sueño fantástico de Charlot	ES	\N	alternative	\N	0
+tt0004102	2	Charlot prehistórico	ES	\N	imdbDisplay	\N	0
+tt0004108	21	Charlot, niñera	ES	\N	\N	reissue title	0
+tt0004108	2	Charlot se engaña	ES	\N	\N	\N	0
+tt0004112	1	Amigo y esposa	ES	\N	alternative	\N	0
+tt0004112	2	Hombre o mujer	ES	\N	imdbDisplay	\N	0
+tt0004114	2	Homenaje a Lanuza	ES	\N	imdbDisplay	\N	0
+tt0004162	2	La intrusa	ES	\N	imdbDisplay	\N	0
+tt0004181	15	Judith de Bethulia	ES	\N	imdbDisplay	\N	0
+tt0004189	13	Carreras sofocantes	ES	\N	\N	\N	0
+tt0004189	7	Carreras de autos para niños	ES	\N	\N	\N	0
+tt0004194	21	Charlot, árbitro	ES	\N	\N	\N	0
+tt0004210	1	Charlot, falso dentista	ES	\N	\N	\N	0
+tt0004210	3	Charlot, dentista	ES	\N	\N	reissue title	0
+tt0004218	2	El león de la sierra	ES	\N	imdbDisplay	\N	0
+tt0004231	1	Linito se hace torero	ES	\N	alternative	\N	0
+tt0004231	3	Linito quiere ser torero	ES	\N	imdbDisplay	\N	0
+tt0004231	4	Avelín torero	ES	\N	alternative	\N	0
+tt0004231	5	Linito por el toreo	ES	\N	alternative	\N	0
+tt0004270	2	La lucha contra el destino	ES	\N	imdbDisplay	\N	0
+tt0004277	14	Mabel y el auto infernal	ES	\N	\N	\N	0
+tt0004277	6	Mabel al volante	ES	\N	\N	\N	0
+tt0004280	12	Charlot y las salchichas	ES	\N	\N	reissue title	0
+tt0004280	15	Mabel, vendedora ambulante	ES	\N	\N	\N	0
+tt0004282	18	Charlot, en la vida conyugal	ES	\N	\N	\N	0
+tt0004284	15	Aventuras extraordinarias de Mabel	ES	\N	\N	\N	0
+tt0004284	19	Charlot en el hotel	ES	\N	\N	reissue title	0
+tt0004288	4	Haciendo por la vida	ES	\N	\N	\N	0
+tt0004288	6	Charlot, periodista	ES	\N	\N	\N	0
+tt0004288	9	Charlot, reportero	ES	\N	\N	\N	0
+tt0004290	2	La malquerida	ES	\N	imdbDisplay	\N	0
+tt0004336	2	El misterio del millón de dólares	ES	\N	\N	\N	0
+tt0004345	1	Misterio de dolor	ES	\N	imdbDisplay	\N	0
+tt0004366	1	Los muertos hablan	ES	\N	imdbDisplay	\N	0
+tt0004384	4	La mujer desnuda	ES	\N	\N	\N	0
+tt0004395	18	Charlot conserje	ES	\N	\N	\N	0
+tt0004406	2	Noche de sangre	ES	\N	imdbDisplay	\N	0
+tt0004407	1	Noche trágica	ES	\N	imdbDisplay	\N	0
+tt0004410	2	Nubes negras	ES	\N	imdbDisplay	\N	0
+tt0004436	3	La telegrafista de Rocas Negras	ES	\N	imdbDisplay	\N	0
+tt0004481	2	El pollo Tejada	ES	\N	imdbDisplay	\N	0
+tt0004482	1	Por el hilo se saca el ovillo	ES	\N	imdbDisplay	\N	0
+tt0004486	1	Presentencompanigraf	ES	\N	imdbDisplay	\N	0
+tt0004494	1	Primera corrida de abono en Valencia	ES	\N	imdbDisplay	\N	0
+tt0004496	3	El Rubí del Rayak	ES	\N	imdbDisplay	\N	0
+tt0004499	19	Charlot, regisseur	ES	\N	\N	\N	0
+tt0004501	2	Prueba trágica	ES	\N	imdbDisplay	\N	0
+tt0004518	8	La pícara primavera	ES	\N	\N	\N	0
+tt0004523	2	El regalo de bodas	ES	\N	imdbDisplay	\N	0
+tt0004543	2	Rosalinda	ES	\N	imdbDisplay	\N	0
+tt0004546	12	Charlot y Fatty van de juerga	ES	\N	\N	reissue title	0
+tt0004546	16	Charlot y Fatty en el café	ES	\N	\N	\N	0
+tt0004553	2	La torre encarnada	ES	\N	imdbDisplay	\N	0
+tt0004571	2	La secta de los misteriosos	ES	\N	imdbDisplay	\N	0
+tt0004572	1	Fanatismo de una secta	ES	\N	\N	\N	0
+tt0004594	1	El signo de la tribu	ES	\N	imdbDisplay	\N	0
+tt0004615	3	Un solo corazón o Los muertos viven	ES	\N	imdbDisplay	\N	0
+tt0004637	15	Charlot, huésped ideal	ES	\N	\N	\N	0
+tt0004637	16	Charlot quiere a la patrona	ES	\N	\N	reissue title	0
+tt0004639	1	Caza acosada	ES	\N	imdbDisplay	\N	0
+tt0004653	2	Su mismo juez	ES	\N	imdbDisplay	\N	0
+tt0004670	3	Charlot en el baile	ES	\N	\N	\N	0
+tt0004681	7	Tess en el país de las tempestades	ES	\N	\N	\N	0
+tt0004693	13	José, rival de Charlot	ES	\N	\N	\N	0
+tt0004693	4	Charlot, rival de amor	ES	\N	\N	\N	0
+tt0004693	6	Charlot, rival de José	ES	\N	\N	reissue title	0
+tt0004704	2	Entre naranjos	ES	\N	\N	\N	0
+tt0004707	10	Aventuras de Tillie	ES	\N	\N	\N	0
+tt0004707	15	Aventuras de Tillie, Mabel y Charlot	ES	\N	\N	\N	0
+tt0004707	17	Charlot, por el amor de Tillie	ES	\N	\N	\N	0
+tt0004707	18	El romance de Charlot	ES	\N	\N	reissue title	0
+tt0004707	26	Idilio desinflado	ES	\N	\N	\N	0
+tt0004707	38	Por el amor de Tillie	ES	\N	\N	\N	0
+tt0004718	1	Tortosa y el observatorio	ES	\N	imdbDisplay	\N	0
+tt0004720	1	La tragedia del destino	ES	\N	imdbDisplay	\N	0
+tt0004736	16	Veinte minutos de amor	ES	\N	\N	\N	0
+tt0004736	3	Charlot, de conquista	ES	\N	\N	\N	0
+tt0004845	2	Zona olivarera	ES	\N	imdbDisplay	\N	0
+tt0004846	8	El misterio de Zudora	ES	\N	\N	\N	0
+tt0004848	3	La última danza	ES	\N	imdbDisplay	\N	0
+tt0004873	2	Alicia en el País de las Maravillas	ES	\N	imdbDisplay	\N	0
+tt0004892	2	El amor hace justicia	ES	\N	imdbDisplay	\N	0
+tt0004936	1	Charlot y los atracadores	ES	\N	alternative	\N	0
+tt0004936	25	Charlot, portero de banco	ES	\N	imdbDisplay	\N	0
+tt0004936	4	Charlot en el banco	ES	\N	\N	reissue title	0
+tt0004936	6	Charlot, portero	ES	\N	\N	reissue title	0
+tt0004954	2	Beby y su circo	ES	\N	imdbDisplay	\N	0
+tt0004972	23	El naixement d'una nació	ES	ca	imdbDisplay	\N	0
+tt0004972	7	El nacimiento de una nación	ES	\N	\N	\N	0
+tt0005005	8	La moneda rota	ES	\N	imdbDisplay	\N	0
+tt0005044	15	Charlot en la playa	ES	\N	\N	\N	0
+tt0005045	2	Los cabellos blancos	ES	\N	imdbDisplay	\N	0
+tt0005074	19	Charlot, boxeador	ES	\N	\N	reissue title	0
+tt0005074	6	Charlot, campeón de boxeo	ES	\N	\N	\N	0
+tt0005074	8	Charlot, campeón	ES	\N	\N	reissue title	0
+tt0005076	4	La tía de Carlos	ES	\N	\N	\N	0
+tt0005078	10	La marca del fuego	ES	\N	\N	\N	0
+tt0005098	2	Clarita y Peladilla en el Football	ES	\N	imdbDisplay	\N	0
+tt0005099	2	Clarita y Peladilla van a los toros	ES	\N	imdbDisplay	\N	0
+tt0005164	2	Cuentos baturros	ES	\N	imdbDisplay	\N	0
+tt0005183	2	De cuarenta para arriba	ES	\N	imdbDisplay	\N	0
+tt0005195	1	The Diamond from the Sky	ES	\N	imdbDisplay	\N	0
+tt0005197	1	El testamento de Diego Rocafort	ES	\N	imdbDisplay	\N	0
+tt0005210	1	Donde las dan las toman	ES	\N	imdbDisplay	\N	0
+tt0005230	1	La duda	ES	\N	imdbDisplay	\N	0
+tt0005240	2	Elva	ES	\N	imdbDisplay	\N	0
+tt0005241	1	La emboscada trágica	ES	\N	imdbDisplay	\N	0
+tt0005303	1	El fantasma negro	ES	\N	imdbDisplay	\N	0
+tt0005333	1	Flor del arroyo	ES	\N	imdbDisplay	\N	0
+tt0005375	2	Garrotazo y tentetieso	ES	\N	imdbDisplay	\N	0
+tt0005410	1	Los grandes riegos de Aragón	ES	\N	imdbDisplay	\N	0
+tt0005425	1	El gato verde	ES	\N	\N	promotional title	0
+tt0005441	2	El crimen de su padre	ES	\N	imdbDisplay	\N	0
+tt0005489	26	Charlot cambia de oficio	ES	\N	imdbDisplay	\N	0
+tt0005489	8	Charlot debuta	ES	\N	alternative	\N	0
+tt0005542	15	Charlot en el parque	ES	\N	\N	\N	0
+tt0005571	22	Charlot quiere casarse	ES	\N	\N	reissue title	0
+tt0005571	24	Charlot rapta a su novia	ES	\N	\N	\N	0
+tt0005571	28	Charlot se promete	ES	\N	\N	reissue title	0
+tt0005571	3	La fuga de Charlot	ES	\N	\N	\N	0
+tt0005574	1	El dinero de Judas	ES	\N	imdbDisplay	\N	0
+tt0005584	3	La lucha por un Rembrandt	ES	\N	imdbDisplay	\N	0
+tt0005593	2	Los ladrones del gran mundo	ES	\N	imdbDisplay	\N	0
+tt0005600	9	El cordero	ES	\N	imdbDisplay	\N	0
+tt0005675	3	Mabel y Fatty en la Feria de San Francisco	ES	\N	dvd	\N	0
+tt0005679	8	Mabel, Fatty y la ley	ES	\N	dvd	\N	0
+tt0005714	1	Margot	ES	\N	imdbDisplay	\N	0
+tt0005755	3	Los misterios de Barcelona	ES	\N	imdbDisplay	\N	0
+tt0005810	23	Charlot se va de juerga	ES	\N	alternative	\N	0
+tt0005810	26	Carlitos va de juerga	ES	\N	\N	reissue title	0
+tt0005810	30	Charlot trasnochador	ES	\N	imdbDisplay	\N	0
+tt0005812	13	Charlot al Music Hall	ES	\N	\N	reissue title	0
+tt0005812	1	Charlot en las variedades	ES	\N	\N	reissue title	0
+tt0005812	8	Charlot en el teatro	ES	\N	imdbDisplay	\N	0
+tt0005815	3	El nocturno de Chopin	ES	\N	imdbDisplay	\N	0
+tt0005844	2	La otra Carmen	ES	\N	imdbDisplay	\N	0
+tt0005859	1	Pacto de lágrimas	ES	\N	imdbDisplay	\N	0
+tt0005869	2	Pasionaria	ES	\N	imdbDisplay	\N	0
+tt0005881	2	Peladilla cochero de punto	ES	\N	imdbDisplay	\N	0
+tt0005888	1	Pero yo te vengaré	ES	\N	imdbDisplay	\N	0
+tt0005909	2	Los polvos del ratero	ES	\N	imdbDisplay	\N	0
+tt0005912	2	Por culpa del padre	ES	\N	imdbDisplay	\N	0
+tt0005948	2	El rajá de Lifará en Zaragoza	ES	\N	imdbDisplay	\N	0
+tt0005951	8	Rapsodia satánica	ES	\N	\N	\N	0
+tt0005958	8	Redención	ES	\N	\N	\N	0
+tt0005994	5	Las aventuras de Ruslan	ES	\N	\N	\N	0
+tt0006023	2	Semana santa en Tarragona	ES	\N	imdbDisplay	\N	0
+tt0006032	14	El marinero	ES	\N	\N	\N	0
+tt0006032	15	El marino	ES	\N	\N	\N	0
+tt0006032	22	Charlot, marinero	ES	\N	\N	reissue title	0
+tt0006057	1	Zapatero, a tus zapatos	ES	\N	imdbDisplay	\N	0
+tt0006065	2	El soldado de San Marcial	ES	\N	imdbDisplay	\N	0
+tt0006177	15	Charlot, vagabundo	ES	\N	\N	\N	0
+tt0006206	11	Los vampiros	ES	\N	\N	\N	0
+tt0006236	2	Las víctimas de la fatalidad	ES	\N	imdbDisplay	\N	0
+tt0006309	11	Charlot, perfecta dama	ES	\N	imdbDisplay	\N	0
+tt0006309	18	Charlot, señorita bien	ES	\N	\N	\N	0
+tt0006313	14	Charlot trabaja	ES	\N	\N	reissue title	0
+tt0006313	17	Carlitos empapelador	ES	\N	\N	reissue title	0
+tt0006313	27	Charlot, trabajando de papelista	ES	\N	\N	\N	0
+tt0006313	9	Charlot, empapelador	ES	\N	\N	reissue title	0
+tt0006329	1	Zaragoza pintoresca	ES	\N	imdbDisplay	\N	0
+tt0006333	10	20.000 Leguas de viaje submarino	ES	\N	imdbDisplay	\N	0
+tt0006334	1	A la pesca de los 45 millones	ES	\N	imdbDisplay	\N	0
+tt0006345	2	Alma torturada	ES	\N	imdbDisplay	\N	0
+tt0006351	2	Amar es sufrir	ES	\N	imdbDisplay	\N	0
+tt0006357	5	Aristocracia americana	ES	\N	imdbDisplay	\N	0
+tt0006360	3	Amor enemigo	ES	\N	\N	\N	0
+tt0006361	2	Amor y lágrimas	ES	\N	imdbDisplay	\N	0
+tt0006369	1	Los apuros de un paleto	ES	\N	imdbDisplay	\N	0
+tt0006375	1	La mujer que mintió	ES	\N	\N	\N	0
+tt0006397	9	Wolo Czawienko	ES	\N	imdbDisplay	\N	0
+tt0006414	10	Charlot, debuta en el cine	ES	\N	\N	reissue title	0
+tt0006414	12	Charlot, tramoyista	ES	\N	\N	reissue title	0
+tt0006414	18	Detrás de la pantalla	ES	\N	\N	\N	0
+tt0006414	19	Charlot, artista de cine	ES	\N	\N	reissue title	0
+tt0006414	20	Charlot, tramoyista de cine	ES	\N	imdbDisplay	\N	0
+tt0006414	22	Charlot, actor de cine	ES	\N	\N	reissue title	0
+tt0006414	29	Charlot, entre bastidores	ES	\N	\N	reissue title	0
+tt0006419	1	El beso de la muerte	ES	\N	imdbDisplay	\N	0
+tt0006420	1	El beso fatal	ES	\N	imdbDisplay	\N	0
+tt0006461	2	Botarate y la andaluza	ES	\N	imdbDisplay	\N	0
+tt0006482	2	The Call of the Cumberlands	ES	\N	imdbDisplay	\N	0
+tt0006485	2	Calínez y Gedeón, detectives	ES	\N	imdbDisplay	\N	0
+tt0006490	2	Los cascabeles fantasmas	ES	\N	imdbDisplay	\N	0
+tt0006494	5	Cenizas	ES	\N	\N	\N	0
+tt0006498	1	Charlot II y su familia	ES	\N	imdbDisplay	\N	0
+tt0006517	3	La cruz de la humanidad	ES	\N	\N	\N	0
+tt0006542	1	Como aquel día	ES	\N	imdbDisplay	\N	0
+tt0006548	11	El conde	ES	\N	\N	reissue title	0
+tt0006548	23	Charlot y el conde	ES	\N	\N	reissue title	0
+tt0006548	2	Charlot, sastre de señoras	ES	\N	\N	\N	0
+tt0006559	1	Culpas ajenas	ES	\N	imdbDisplay	\N	0
+tt0006585	2	Deuda pagada	ES	\N	imdbDisplay	\N	0
+tt0006617	15	La extraña aventura del ingeniero Lebel	ES	\N	imdbDisplay	\N	0
+tt0006625	1	Un ejemplo	ES	\N	imdbDisplay	\N	0
+tt0006677	2	Fiesta de la flor en Zaragoza	ES	\N	imdbDisplay	\N	0
+tt0006678	1	Fiesta del árbol en Zaragoza	ES	\N	imdbDisplay	\N	0
+tt0006684	12	El bombero	ES	\N	\N	\N	0
+tt0006684	20	Charlot, bombero	ES	\N	\N	\N	0
+tt0006689	12	El jefe de dependientes	ES	\N	\N	\N	0
+tt0006689	18	Charlot, encargado de bazar	ES	\N	\N	\N	0
+tt0006689	34	Charlot en el bazar	ES	\N	\N	reissue title	0
+tt0006689	5	Charlot en la tienda	ES	\N	\N	\N	0
+tt0006690	3	Flor de otoño	ES	\N	imdbDisplay	\N	0
+tt0006708	2	El jugador	ES	\N	\N	\N	0
+tt0006736	4	El ladrón generoso	ES	\N	\N	\N	0
+tt0006761	7	Los buitres del mar	ES	\N	imdbDisplay	\N	0
+tt0006776	2	Corazones y chispas	ES	\N	imdbDisplay	\N	0
+tt0006783	4	Su alteza real	ES	\N	imdbDisplay	\N	0
+tt0006809	6	Su retrato en los periódicos	ES	\N	imdbDisplay	\N	0
+tt0006821	4	El vencedor de la muerte	ES	\N	imdbDisplay	\N	0
+tt0006834	1	Humanidad	ES	\N	imdbDisplay	\N	0
+tt0006845	2	El idiota de Sevilla	ES	\N	imdbDisplay	\N	0
+tt0006864	13	Intolerancia	ES	\N	imdbDisplay	\N	0
+tt0006864	31	Intolerància	ES	ca	alternative	\N	0
+tt0006885	1	Las joyas de la condesa	ES	\N	imdbDisplay	\N	0
+tt0006886	5	Judex	ES	\N	imdbDisplay	\N	0
+tt0006890	2	Jura de bandera	ES	\N	imdbDisplay	\N	0
+tt0006902	5	Amor y periodismo	ES	\N	imdbDisplay	\N	0
+tt0006936	2	La loca del monasterio	ES	\N	imdbDisplay	\N	0
+tt0006993	8	Los ladrones automovilistas	ES	\N	imdbDisplay	\N	0
+tt0006997	3	Maciste alpino contra los autriacos	ES	\N	\N	\N	0
+tt0007032	2	La mano	ES	\N	imdbDisplay	\N	0
+tt0007038	4	Maria Rosa	ES	\N	imdbDisplay	\N	0
+tt0007047	5	El casamiento de Jimmie	ES	\N	imdbDisplay	\N	0
+tt0007055	1	La mejor venganza	ES	\N	imdbDisplay	\N	0
+tt0007064	1	El documento del señor Miller	ES	\N	imdbDisplay	\N	0
+tt0007075	2	Miss Ledya	ES	\N	\N	\N	0
+tt0007083	1	El misterio de una noche de verano o El enigma de una noche	ES	\N	imdbDisplay	\N	0
+tt0007102	2	Muñecos	ES	\N	imdbDisplay	\N	0
+tt0007145	30	Charlot, a la una de la madrugada	ES	\N	alternative	\N	0
+tt0007145	6	Charlot noctámbulo	ES	\N	imdbDisplay	\N	0
+tt0007155	2	Pasa el Ideal	ES	\N	imdbDisplay	\N	0
+tt0007162	28	Charlot, prestamista	ES	\N	imdbDisplay	\N	0
+tt0007175	2	Las peripecias de Baby	ES	\N	imdbDisplay	\N	0
+tt0007176	2	Pero tu amor me redime	ES	\N	imdbDisplay	\N	0
+tt0007193	1	Poderoso caballero	ES	\N	imdbDisplay	\N	0
+tt0007194	15	Charlot, ladrón	ES	\N	\N	reissue title	0
+tt0007194	1	Charlot, licenciado de presidio	ES	\N	\N	\N	0
+tt0007194	25	Charlot, maleante	ES	\N	\N	reissue title	0
+tt0007194	28	Carlitos, maleante	ES	\N	\N	\N	0
+tt0007203	2	Por la vida del rey o El misterio de la corte de Suavia	ES	\N	imdbDisplay	\N	0
+tt0007231	2	De este modo hoy día tan acostumbrado	ES	\N	imdbDisplay	\N	0
+tt0007241	3	El potro del tormento	ES	\N	imdbDisplay	\N	0
+tt0007249	1	La razón social Castro y Ferrant	ES	\N	imdbDisplay	\N	0
+tt0007256	1	Regeneración	ES	\N	imdbDisplay	\N	0
+tt0007258	2	Regreso de los exploradores que llevaron mensaje a mariano de Cavia	ES	\N	imdbDisplay	\N	0
+tt0007259	2	La reina joven	ES	\N	imdbDisplay	\N	0
+tt0007264	11	Charlot, héroe del patín	ES	\N	imdbDisplay	\N	0
+tt0007264	22	Como sobre ruedas	ES	\N	alternative	\N	0
+tt0007264	29	Sobre ruedas	ES	\N	alternative	\N	0
+tt0007264	34	Charlot, patinador	ES	\N	alternative	\N	0
+tt0007297	3	Sangre y arena	ES	\N	imdbDisplay	\N	0
+tt0007316	1	El secreto de la esfinge	ES	\N	imdbDisplay	\N	0
+tt0007319	1	El secreto de una madre	ES	\N	imdbDisplay	\N	0
+tt0007320	1	Los secretos del mar	ES	\N	imdbDisplay	\N	0
+tt0007340	1	Shoes	ES	\N	imdbDisplay	\N	0
+tt0007355	6	Bosques que se encuentran	ES	\N	imdbDisplay	\N	0
+tt0007431	1	Tauromanías o La vocación de Rafael Arcos	ES	\N	imdbDisplay	\N	0
+tt0007432	2	Tauromaquias	ES	\N	imdbDisplay	\N	0
+tt0007436	1	Tenorios modernos en Barcelona	ES	\N	imdbDisplay	\N	0
+tt0007446	2	Teresa	ES	\N	imdbDisplay	\N	0
+tt0007459	5	Tigre real	ES	\N	\N	\N	0
+tt0007463	2	Todo lo vence el amor	ES	\N	imdbDisplay	\N	0
+tt0007471	2	Tractores y Malacate o Feria agrícola de Almudébar	ES	\N	imdbDisplay	\N	0
+tt0007476	17	Las desdichas de Charlot	ES	\N	\N	reissue title	0
+tt0007476	2	Aventuras y desventuras de Charlot	ES	\N	\N	\N	0
+tt0007476	3	Aventuras de Charlot	ES	\N	\N	\N	0
+tt0007507	36	Charlot, músico ambulante	ES	\N	\N	\N	0
+tt0007507	4	Charlot, bohemio	ES	\N	\N	\N	0
+tt0007507	8	Charlot, músico	ES	\N	\N	reissue title	0
+tt0007507	9	El vagabundo	ES	\N	\N	\N	0
+tt0007518	1	La vida de Cristóbal Colón y su descubrimiento de América	ES	\N	\N	\N	0
+tt0007519	1	La vida y la muerte	ES	\N	imdbDisplay	\N	0
+tt0007522	10	Las alas	ES	\N	imdbDisplay	\N	0
+tt0007581	5	La mujer y la navaja	ES	\N	imdbDisplay	\N	0
+tt0007608	2	Vejez y locura	ES	\N	imdbDisplay	\N	0
+tt0007613	13	Charlot, el aventurero	ES	\N	\N	reissue title	0
+tt0007613	15	Charlot, presidiario	ES	\N	\N	reissue title	0
+tt0007613	33	El aventurero	ES	\N	imdbDisplay	\N	0
+tt0007613	6	Charlot se evade	ES	\N	\N	reissue title	0
+tt0007620	3	Alexandre el gran	ES	ca	\N	\N	0
+tt0007662	1	Aventuras de Jim Trot	ES	\N	imdbDisplay	\N	0
+tt0007663	2	Aventuras del Noi de Tona	ES	\N	imdbDisplay	\N	0
+tt0007755	9	Bucking Broadway	ES	\N	imdbDisplay	\N	0
+tt0007761	10	Fatty asesino	ES	\N	dvd	\N	0
+tt0007761	2	Fatty carnicero	ES	\N	imdbDisplay	\N	0
+tt0007796	1	Cipriano, bailarín a pesar suyo	ES	\N	imdbDisplay	\N	0
+tt0007819	3	Fatty en la feria	ES	\N	\N	premiere title	0
+tt0007832	10	La curación	ES	\N	\N	reissue title	0
+tt0007832	15	Charlot en el balneario	ES	\N	\N	\N	0
+tt0007832	27	Charlot hace una curación	ES	\N	\N	\N	0
+tt0007832	36	La cura	ES	\N	\N	\N	0
+tt0007859	2	La dicha ajena	ES	\N	imdbDisplay	\N	0
+tt0007862	1	El doctor Rojo	ES	\N	imdbDisplay	\N	0
+tt0007880	10	La calle de la paz	ES	\N	\N	reissue title	0
+tt0007880	15	Charlot en la calle de la paz	ES	\N	imdbDisplay	\N	0
+tt0007890	2	En pos de la ilusión	ES	\N	imdbDisplay	\N	0
+tt0007893	2	Ensueños	ES	\N	imdbDisplay	\N	0
+tt0007908	2	Out of the Far East	ES	\N	imdbDisplay	\N	0
+tt0007982	2	Fuerza y nobleza	ES	\N	imdbDisplay	\N	0
+tt0007992	2	El secreto	ES	\N	imdbDisplay	\N	0
+tt0008012	2	Gitana cañí	ES	\N	imdbDisplay	\N	0
+tt0008024	2	El golfo	ES	\N	imdbDisplay	\N	0
+tt0008027	1	Gratitud	ES	\N	imdbDisplay	\N	0
+tt0008040	5	Hamlet	ES	\N	\N	\N	0
+tt0008060	8	El Desafío de Single Parker	ES	\N	video	\N	0
+tt0008087	3	La herencia del diablo	ES	\N	imdbDisplay	\N	0
+tt0008098	2	La hija del mar	ES	\N	imdbDisplay	\N	0
+tt0008112	1	Noche de bodas	ES	\N	dvd	\N	0
+tt0008133	20	El emigrante	ES	\N	\N	\N	0
+tt0008133	23	Charlot emigrante	ES	\N	\N	\N	0
+tt0008150	2	Juana de Arco	ES	\N	\N	\N	0
+tt0008152	1	Juan José	ES	\N	imdbDisplay	\N	0
+tt0008161	4	El rey de París	ES	\N	\N	literal title	0
+tt0008181	1	La leyenda del cementerio	ES	\N	imdbDisplay	\N	0
+tt0008254	2	La última fuga	ES	\N	\N	\N	0
+tt0008268	1	La mano roja	ES	\N	imdbDisplay	\N	0
+tt0008284	1	Mefisto	ES	\N	imdbDisplay	\N	0
+tt0008309	2	El moderno mosquetero	ES	\N	\N	\N	0
+tt0008311	2	El monedero de Cipriano	ES	\N	imdbDisplay	\N	0
+tt0008338	3	La maravilla musical	ES	\N	dvd	\N	0
+tt0008361	4	La flor de la montaña	ES	\N	\N	\N	0
+tt0008375	2	La obsesión de Periquito	ES	\N	imdbDisplay	\N	0
+tt0008377	6	¡Oh, Doctor!	ES	\N	dvd	\N	0
+tt0008395	10	El padre Sergio	ES	\N	\N	\N	0
+tt0008424	1	Pero el amor venció	ES	\N	imdbDisplay	\N	0
+tt0008443	3	Una pobre rica	ES	\N	imdbDisplay	\N	0
+tt0008470	1	El protegido de Satán	ES	\N	imdbDisplay	\N	0
+tt0008513	1	La prueba	ES	\N	imdbDisplay	\N	0
+tt0008517	1	La hija del arrabal	ES	\N	imdbDisplay	\N	0
+tt0008519	1	Un romance en los Redwoods	ES	\N	imdbDisplay	\N	0
+tt0008523	5	Tres pies al gato	ES	\N	dvd	\N	0
+tt0008534	2	Los saltimbanquis	ES	\N	imdbDisplay	\N	0
+tt0008536	2	La campana de la muerte	ES	\N	imdbDisplay	\N	0
+tt0008575	4	El suero del doctor Soriano	ES	\N	imdbDisplay	\N	0
+tt0008576	2	El sino manda	ES	\N	imdbDisplay	\N	0
+tt0008601	2	La sombra del polaco	ES	\N	imdbDisplay	\N	0
+tt0008634	3	A prueba de balas	ES	\N	imdbDisplay	\N	0
+tt0008654	2	El talismán	ES	\N	imdbDisplay	\N	0
+tt0008663	10	Terje Vigen (Érase un hombre...)	ES	\N	imdbDisplay	\N	0
+tt0008672	3	La mejor película de Thomas Graal	ES	\N	\N	\N	0
+tt0008672	4	El millor film de Thomas Graal	ES	ca	\N	\N	0
+tt0008678	3	La tigresa	ES	\N	imdbDisplay	\N	0
+tt0008691	1	El toro fenómeno	ES	\N	imdbDisplay	\N	0
+tt0008692	6	El rastro del odio	ES	\N	alternative	\N	0
+tt0008695	2	Las tribulaciones de Querubín	ES	\N	imdbDisplay	\N	0
+tt0008710	13	Amor triunfante	ES	\N	imdbDisplay	\N	0
+tt0008728	2	Vaya remojón	ES	\N	imdbDisplay	\N	0
+tt0008729	6	¿Quién disparó el tiro?	ES	\N	imdbDisplay	\N	0
+tt0008733	2	La verdad	ES	\N	imdbDisplay	\N	0
+tt0008739	2	Vindicator	ES	\N	imdbDisplay	\N	0
+tt0008759	2	La niña de los millones	ES	\N	\N	\N	0
+tt0008789	4	La niña de Holanda	ES	\N	\N	complete title	0
+tt0008805	4	¿Quién me hará olvidar sin morir?	ES	\N	imdbDisplay	\N	0
+tt0008833	2	Amor parricida	ES	\N	imdbDisplay	\N	0
+tt0008840	2	El apache de Londres	ES	\N	imdbDisplay	\N	0
+tt0008845	5	Arizona	ES	\N	\N	\N	0
+tt0008854	6	Los ojos de la momia	ES	\N	\N	\N	0
+tt0008855	2	El aventurero misterioso	ES	\N	imdbDisplay	\N	0
+tt0008856	1	Los aventureros del crimen	ES	\N	imdbDisplay	\N	0
+tt0008862	2	Bajada del ángel en Tudela	ES	\N	imdbDisplay	\N	0
+tt0008873	2	¡Voto al chapiro verde!	ES	\N	\N	\N	0
+tt0008874	2	El botones	ES	\N	\N	\N	0
+tt0008879	10	Los proscriptos	ES	\N	imdbDisplay	\N	0
+tt0008891	8	El pájaro azul	ES	\N	imdbDisplay	\N	0
+tt0008914	1	Bosquejo cinematográfico	ES	\N	imdbDisplay	\N	0
+tt0008915	4	En la tierra del moro	ES	\N	\N	\N	0
+tt0008947	4	El capitán Fracassa	ES	\N	\N	\N	0
+tt0008950	11	Carmen	ES	\N	\N	\N	0
+tt0008962	2	La ciudad de las caras sombrías	ES	\N	\N	\N	0
+tt0008970	2	Codicia	ES	\N	imdbDisplay	\N	0
+tt0008977	3	La cortina verde	ES	\N	imdbDisplay	\N	0
+tt0009014	1	La décima sinfonía	ES	\N	imdbDisplay	\N	0
+tt0009018	27	Vida de perro	ES	\N	\N	\N	0
+tt0009029	3	El Ojo del Águila	ES	\N	imdbDisplay	\N	0
+tt0009039	1	La narracion de un soldado	ES	\N	\N	\N	0
+tt0009048	2	The Eyes of Mystery	ES	\N	imdbDisplay	\N	0
+tt0009050	3	Lo más sublime	ES	\N	\N	\N	0
+tt0009109	4	Sobre las ruinas del mundo	ES	\N	imdbDisplay	\N	0
+tt0009123	8	Buenas noches, enfermera	ES	\N	\N	\N	0
+tt0009130	7	El gran amor	ES	\N	imdbDisplay	\N	0
+tt0009133	7	Lo más grande en la vida	ES	\N	imdbDisplay	\N	0
+tt0009150	15	Corazones del mundo	ES	\N	\N	\N	0
+tt0009153	10	El cowboy vengador	ES	\N	alternative	\N	0
+tt0009153	12	El barranco del diablo	ES	\N	imdbDisplay	\N	0
+tt0009173	2	Las perlas robadas	ES	\N	\N	\N	0
+tt0009214	5	Tomasín con vida y sin boda	ES	\N	\N	new title	0
+tt0009230	2	Los intereses creados	ES	\N	imdbDisplay	\N	0
+tt0009309	5	Little Women	ES	\N	imdbDisplay	\N	0
+tt0009347	1	El manuscrito de una madre	ES	\N	imdbDisplay	\N	0
+tt0009389	3	Fatty y las estrellas	ES	\N	dvd	\N	0
+tt0009400	2	El arreglalotodo	ES	\N	\N	\N	0
+tt0009414	2	Las máscaras negras	ES	\N	imdbDisplay	\N	0
+tt0009415	7	La bailarina del antifaz	ES	\N	\N	\N	0
+tt0009416	3	El gato con botas	ES	\N	imdbDisplay	\N	0
+tt0009457	5	Soberbia	ES	\N	alternative	\N	0
+tt0009488	2	Perfidia	ES	\N	imdbDisplay	\N	0
+tt0009543	8	La Virgen de las rosas	ES	\N	imdbDisplay	\N	0
+tt0009547	2	El rey de la serranía	ES	\N	imdbDisplay	\N	0
+tt0009557	7	Pasajero sin billete	ES	\N	\N	\N	0
+tt0009573	4	Salome	ES	\N	imdbDisplay	\N	0
+tt0009580	2	La gota de sangre	ES	\N	\N	\N	0
+tt0009611	22	¡Armas al hombro!	ES	\N	\N	\N	0
+tt0009620	4	El hundimiento del Lusitania	ES	\N	imdbDisplay	\N	0
+tt0009638	4	El lodazal	ES	\N	\N	\N	0
+tt0009694	2	El primer hijo de Tomás	ES	\N	imdbDisplay	\N	0
+tt0009713	2	Demasiados millones	ES	\N	\N	\N	0
+tt0009715	5	Tosca	ES	\N	\N	\N	0
+tt0009723	1	El tren de los suicidas	ES	\N	imdbDisplay	\N	0
+tt0009735	2	La tía de Pancho	ES	\N	imdbDisplay	\N	0
+tt0009736	2	El tío de América	ES	\N	imdbDisplay	\N	0
+tt0009740	3	Por express contra reembolso	ES	\N	imdbDisplay	\N	0
+tt0009754	4	El encantode un vals	ES	\N	imdbDisplay	\N	0
+tt0009855	4	Veintitrés horas y media de permiso	ES	\N	imdbDisplay	\N	0
+tt0009864	3	El desterrado	ES	\N	\N	\N	0
+tt0009875	3	Al estilo americano	ES	\N	\N	\N	0
+tt0009878	7	Diferente a los demás	ES	\N	imdbDisplay	\N	0
+tt0009883	2	Los arlequines de seda y oro	ES	\N	imdbDisplay	\N	0
+tt0009893	2	La princesa de las ostras	ES	\N	imdbDisplay	\N	0
+tt0009894	1	El automóvil gris	ES	\N	imdbDisplay	\N	0
+tt0009899	10	Keaton entre bastidores	ES	\N	\N	\N	0
+tt0009905	2	Barrabás	ES	\N	\N	\N	0
+tt0009915	8	Detrás de la puerta	ES	\N	\N	\N	0
+tt0009937	14	Corazón olvidado	ES	\N	\N	\N	0
+tt0009955	1	El botón de fuego	ES	\N	imdbDisplay	\N	0
+tt0009968	12	La culpa ajena	ES	\N	\N	\N	0
+tt0009968	13	Poncelles trencades	ES	ca	\N	\N	0
+tt0009968	15	Lirios rotos	ES	\N	\N	\N	0
+tt0009973	10	Harold apasionado	ES	\N	dvd	\N	0
+tt0009973	11	Cayendo en Broadway	ES	\N	alternative	\N	0
+tt0009973	7	Hacia Broadway	ES	\N	imdbDisplay	\N	0
+tt0010034	1	¡Cuidado con los ladrones!	ES	\N	imdbDisplay	\N	0
+tt0010040	9	Papá piernas largas	ES	\N	imdbDisplay	\N	0
+tt0010041	2	La dama duende	ES	\N	imdbDisplay	\N	0
+tt0010057	10	Un día de juerga	ES	\N	imdbDisplay	\N	0
+tt0010057	12	¡Vaya día festivo!	ES	\N	\N	reissue title	0
+tt0010057	14	Charlot en - ¡Vaya día festivo!	ES	\N	\N	reissue title	0
+tt0010057	4	Charlot en - Día de placer	ES	\N	\N	reissue title	0
+tt0010071	5	No cambies de esposo	ES	\N	imdbDisplay	\N	0
+tt0010075	4	El tímido	ES	\N	\N	\N	0
+tt0010080	5	Jimmy Sansom, el aventurero	ES	\N	imdbDisplay	\N	0
+tt0010100	1	Santander, años veinte	ES	\N	\N	\N	0
+tt0010155	17	Fatty en el garaje	ES	\N	imdbDisplay	\N	0
+tt0010176	1	La gitana blanca	ES	\N	imdbDisplay	\N	0
+tt0010193	8	El mayor problema	ES	\N	imdbDisplay	\N	0
+tt0010206	5	El testamento de su excelencia	ES	\N	imdbDisplay	\N	0
+tt0010207	2	Matrimonios a la moda	ES	\N	imdbDisplay	\N	0
+tt0010221	4	Fatty cartero	ES	\N	dvd	\N	0
+tt0010247	22	El tesoro de Arne	ES	\N	\N	\N	0
+tt0010247	23	El tresor d'Arne	ES	ca	\N	\N	0
+tt0010249	5	La dueña del mundo	ES	\N	\N	\N	0
+tt0010250	1	Hidalguía española	ES	\N	imdbDisplay	\N	0
+tt0010281	7	No quiero ser un hombre	ES	\N	\N	\N	0
+tt0010307	14	Yo acuso	ES	\N	\N	\N	0
+tt0010323	26	El gabinete del doctor Caligari	ES	\N	\N	alternative spelling	0
+tt0010323	42	El gabinet del doctor Caligari	ES	ca	\N	\N	0
+tt0010323	8	El gabinete del Dr. Caligari	ES	\N	imdbDisplay	\N	0
+tt0010336	3	El luchador novato que aprendió hasta del gato	ES	\N	\N	\N	0
+tt0010389	2	El premio gordo	ES	\N	\N	\N	0
+tt0010414	1	La madona de las rosas	ES	\N	imdbDisplay	\N	0
+tt0010418	1	Macho y hembra	ES	\N	\N	\N	0
+tt0010438	9	Hombres marcados	ES	\N	\N	\N	0
+tt0010455	2	La mesonera del Tormes	ES	\N	imdbDisplay	\N	0
+tt0010457	2	Las micelas de plata	ES	\N	imdbDisplay	\N	0
+tt0010466	4	El milagro	ES	\N	\N	\N	0
+tt0010476	3	El rancho del oro	ES	\N	imdbDisplay	\N	0
+tt0010485	1	Movimientos brownianos	ES	\N	imdbDisplay	\N	0
+tt0010497	9	Mi mujer, artista de cine	ES	\N	\N	\N	0
+tt0010511	3	De mal agüero	ES	\N	imdbDisplay	\N	0
+tt0010512	2	Noche de reyes o El regalo de reyes	ES	\N	imdbDisplay	\N	0
+tt0010536	2	El otro	ES	\N	imdbDisplay	\N	0
+tt0010598	12	El Presidente	ES	\N	imdbDisplay	\N	0
+tt0010600	13	La muñeca	ES	\N	\N	\N	0
+tt0010619	2	El regalo de reyes	ES	\N	imdbDisplay	\N	0
+tt0010626	1	El rey de las montañas	ES	\N	imdbDisplay	\N	0
+tt0010629	7	El jinete vengador	ES	\N	\N	\N	0
+tt0010635	6	Batiendo el récord	ES	\N	\N	\N	0
+tt0010662	7	Días rojos	ES	\N	imdbDisplay	\N	0
+tt0010726	7	Arañas	ES	\N	dvd	\N	0
+tt0010747	18	Charlot en la granja	ES	\N	\N	reissue title	0
+tt0010747	24	Al sol	ES	\N	\N	\N	0
+tt0010747	27	Carlitos de campo	ES	\N	\N	\N	0
+tt0010747	6	Charlot en el campo	ES	\N	\N	reissue title	0
+tt0010755	2	El cant de la flor escarlata	ES	ca	\N	\N	0
+tt0010758	1	Tarazona	ES	\N	imdbDisplay	\N	0
+tt0010806	10	El verdadero corazón de Susie	ES	\N	imdbDisplay	\N	0
+tt0010821	4	Historias tenebrosas	ES	\N	imdbDisplay	\N	0
+tt0010835	6	Los monarcas de la selva	ES	\N	\N	\N	0
+tt0010845	2	Vida nueva	ES	\N	imdbDisplay	\N	0
+tt0010879	1	Pesadillas	ES	\N	imdbDisplay	\N	0
+tt0010924	4	Yamata	ES	\N	imdbDisplay	\N	0
+tt0010929	6	¡Queda usted despedido!	ES	\N	\N	\N	0
+tt0010936	2	¡A la orden, mi coronel!	ES	\N	imdbDisplay	\N	0
+tt0010937	2	¿Sueño o realidad?	ES	\N	imdbDisplay	\N	0
+tt0010944	1	El 13.000	ES	\N	imdbDisplay	\N	0
+tt0010959	1	Siempre audaz	ES	\N	\N	\N	0
+tt0010962	12	Ana Bolena	ES	\N	\N	\N	0
+tt0010969	19	La Atlántida	ES	\N	\N	\N	0
+tt0011000	19	Páginas del libro de Satán	ES	\N	imdbDisplay	\N	0
+tt0011013	8	Una bomba	ES	\N	imdbDisplay	\N	0
+tt0011035	1	Los buitres de la aldea	ES	\N	imdbDisplay	\N	0
+tt0011064	3	Cogida y muerte de Gallito o La tragedia de Talavera	ES	\N	imdbDisplay	\N	0
+tt0011068	2	Como el perro del hortelano	ES	\N	imdbDisplay	\N	0
+tt0011071	13	Convicto 13	ES	\N	\N	\N	0
+tt0011093	6	Vivo o muerto	ES	\N	imdbDisplay	\N	0
+tt0011104	1	Las delicias del campo	ES	\N	imdbDisplay	\N	0
+tt0011110	1	Las dos niñas de París	ES	\N	\N	\N	0
+tt0011125	2	Relámpago	ES	\N	imdbDisplay	\N	0
+tt0011130	14	Dr. Jekyll y Mr. Hyde	ES	\N	video	\N	0
+tt0011130	20	El hombre y la bestia	ES	\N	\N	\N	0
+tt0011131	4	Dr. Jekyll and Mr. Hyde	ES	\N	imdbDisplay	\N	0
+tt0011144	10	Un auténtico western	ES	\N	imdbDisplay	\N	0
+tt0011144	1	Por el corazón de Jenny	ES	\N	dvd	\N	0
+tt0011156	1	Entierro de las víctimas del cuartel del Carmen	ES	\N	imdbDisplay	\N	0
+tt0011157	12	Cuando ellas quieren	ES	\N	imdbDisplay	\N	0
+tt0011157	18	Erotikon	ES	\N	\N	\N	0
+tt0011158	1	La escuadra en el puerto	ES	\N	imdbDisplay	\N	0
+tt0011160	2	El espectro del castillo	ES	\N	imdbDisplay	\N	0
+tt0011165	2	El expósito	ES	\N	imdbDisplay	\N	0
+tt0011171	4	Tradiciones de familia	ES	\N	imdbDisplay	\N	0
+tt0011214	3	Una casa de locos	ES	\N	\N	\N	0
+tt0011215	4	Al calor del hogar	ES	\N	imdbDisplay	\N	0
+tt0011228	10	La doncella del 29	ES	\N	alternative	\N	0
+tt0011228	6	La joven del cuarto 29	ES	\N	imdbDisplay	\N	0
+tt0011237	15	El golem	ES	\N	\N	\N	0
+tt0011246	1	The Great Redeemer	ES	\N	imdbDisplay	\N	0
+tt0011256	5	El cerebro y el corazón	ES	\N	imdbDisplay	\N	0
+tt0011273	4	Tierra baja	ES	\N	imdbDisplay	\N	0
+tt0011293	6	Harold, el nuevo doctor	ES	\N	\N	\N	0
+tt0011298	1	Ligaduras de oro	ES	\N	\N	\N	0
+tt0011302	8	El hombre del mar	ES	\N	imdbDisplay	\N	0
+tt0011331	4	La inaccesible	ES	\N	imdbDisplay	\N	0
+tt0011347	2	El murciélago	ES	\N	imdbDisplay	\N	0
+tt0011348	12	La cabeza de Jano	ES	\N	alternative	\N	0
+tt0011352	3	Trágica muerte de Joselito	ES	\N	\N	\N	0
+tt0011357	2	El judío polaco	ES	\N	imdbDisplay	\N	0
+tt0011358	9	Buenos amigos	ES	\N	imdbDisplay	\N	0
+tt0011362	1	El reloj roto	ES	\N	imdbDisplay	\N	0
+tt0011370	8	El monasterio de Sendomir	ES	\N	\N	\N	0
+tt0011371	12	Las hijas del cervecero	ES	\N	\N	\N	0
+tt0011387	14	El último Mohicano	ES	\N	\N	\N	0
+tt0011399	2	El león	ES	\N	imdbDisplay	\N	0
+tt0011411	2	Lolo	ES	\N	imdbDisplay	\N	0
+tt0011415	10	Flor de amor	ES	\N	imdbDisplay	\N	0
+tt0011423	4	Vacaciones de Maciste	ES	\N	\N	\N	0
+tt0011439	16	La marca del Zorro	ES	\N	imdbDisplay	\N	0
+tt0011440	3	Bendición de la Tierra	ES	qbp	imdbDisplay	\N	0
+tt0011454	6	Paraisos artificiales	ES	\N	\N	\N	0
+tt0011464	2	Un millonario va a casarse	ES	\N	imdbDisplay	\N	0
+tt0011488	2	La muerte de Joselito	ES	\N	imdbDisplay	\N	0
+tt0011497	1	La mártir	ES	\N	imdbDisplay	\N	0
+tt0011498	2	Mátame	ES	\N	imdbDisplay	\N	0
+tt0011499	3	El usurero	ES	\N	imdbDisplay	\N	0
+tt0011508	21	Keaton en Vecinos	ES	\N	\N	\N	0
+tt0011512	2	Noche de estreno	ES	\N	imdbDisplay	\N	0
+tt0011523	2	Nury	ES	\N	imdbDisplay	\N	0
+tt0011541	6	Una semana	ES	\N	\N	\N	0
+tt0011543	1	Operaciones del doctor Mas	ES	\N	imdbDisplay	\N	0
+tt0011544	1	El oprobio	ES	\N	imdbDisplay	\N	0
+tt0011560	1	La patrona de Berga	ES	\N	imdbDisplay	\N	0
+tt0011563	4	El valle florido	ES	\N	imdbDisplay	\N	0
+tt0011565	11	El hombre sin piernas (The Penalty)	ES	\N	imdbDisplay	\N	0
+tt0011570	4	Pulgarcito	ES	\N	\N	\N	0
+tt0011588	2	El ruiseñor del pueblo	ES	\N	imdbDisplay	\N	0
+tt0011591	2	Por teléfono	ES	\N	imdbDisplay	\N	0
+tt0011601	2	El príncipe escultor	ES	\N	imdbDisplay	\N	0
+tt0011606	1	Procesión del Corpus en Vigo	ES	\N	imdbDisplay	\N	0
+tt0011607	21	La viuda del pastor	ES	\N	imdbDisplay	\N	0
+tt0011620	1	Reproducción de micelas de nitrato de plata por la acción de la luz	ES	\N	imdbDisplay	\N	0
+tt0011641	7	Romeo y Julieta	ES	\N	\N	\N	0
+tt0011652	20	Ingenuo y afortunado	ES	\N	alternative	\N	0
+tt0011652	4	Pasión y boda de Pamplinas	ES	\N	imdbDisplay	\N	0
+tt0011652	6	Ingenu i afortunat	ES	ca	\N	\N	0
+tt0011679	1	Sex	ES	\N	imdbDisplay	\N	0
+tt0011741	11	Sueño y realidad	ES	\N	imdbDisplay	\N	0
+tt0011742	10	Sumurun	ES	\N	\N	\N	0
+tt0011752	1	Tenacidad	ES	\N	imdbDisplay	\N	0
+tt0011753	8	La isla del terror	ES	\N	\N	\N	0
+tt0011764	5	El duodécimo mandamiento	ES	\N	imdbDisplay	\N	0
+tt0011765	2	La divorciada	ES	\N	imdbDisplay	\N	0
+tt0011785	5	La isla del tesoro	ES	\N	\N	\N	0
+tt0011790	1	Trilladora trabajando	ES	\N	imdbDisplay	\N	0
+tt0011817	1	La venganza del marino	ES	\N	imdbDisplay	\N	0
+tt0011823	1	Vida cruel	ES	\N	imdbDisplay	\N	0
+tt0011824	2	La vida de Joselito y su muerte	ES	\N	imdbDisplay	\N	0
+tt0011829	1	La virgen bruja	ES	\N	imdbDisplay	\N	0
+tt0011830	4	La virgen de Estambul	ES	\N	\N	\N	0
+tt0011833	9	De la mañana a la medianoche	ES	\N	imdbDisplay	\N	0
+tt0011837	3	La virgen de la nieve	ES	\N	imdbDisplay	\N	0
+tt0011841	4	Las dos tormentas	ES	\N	imdbDisplay	\N	0
+tt0011865	12	¿Por qué cambiar de esposa?	ES	\N	imdbDisplay	\N	0
+tt0011870	14	La Negra	ES	\N	imdbDisplay	\N	0
+tt0011870	6	Puertas adentro	ES	\N	alternative	\N	0
+tt0011872	1	Desinterés	ES	\N	imdbDisplay	\N	0
+tt0011904	10	As de corazones	ES	\N	imdbDisplay	\N	0
+tt0011909	16	El señorito Primavera	ES	\N	\N	\N	0
+tt0011912	2	Después de la función	ES	\N	imdbDisplay	\N	0
+tt0011936	7	El fin del mundo	ES	\N	\N	\N	0
+tt0011942	10	Jaimito pastelero	ES	\N	\N	\N	0
+tt0011942	9	El chico del colmado	ES	\N	\N	\N	0
+tt0011948	5	Peor que una suegra	ES	\N	imdbDisplay	\N	0
+tt0011960	11	El gato montés	ES	\N	\N	\N	0
+tt0011974	4	La pantera negra	ES	\N	imdbDisplay	\N	0
+tt0011979	5	El borrón	ES	\N	imdbDisplay	\N	0
+tt0011984	4	La barca	ES	\N	\N	\N	0
+tt0012027	9	La dama de las camelias	ES	\N	imdbDisplay	\N	0
+tt0012037	7	El arte de ser distinguida y encantadora	ES	\N	imdbDisplay	\N	0
+tt0012068	14	Eugenia Grandet	ES	\N	\N	\N	0
+tt0012070	1	Corazón de España o El triunfo de Granero	ES	\N	imdbDisplay	\N	0
+tt0012077	2	Loco por casarse	ES	\N	\N	\N	0
+tt0012086	1	Cuidado con la curva	ES	\N	\N	\N	0
+tt0012102	3	Camino de desesperación	ES	\N	\N	\N	0
+tt0012108	2	El diablo está en Zaragoza	ES	\N	imdbDisplay	\N	0
+tt0012114	5	El gordo de la suerte	ES	\N	\N	\N	0
+tt0012134	4	Eldorado	ES	\N	\N	\N	0
+tt0012142	1	Los emigrados	ES	\N	imdbDisplay	\N	0
+tt0012157	4	Porte pagado	ES	\N	\N	\N	0
+tt0012177	7	Flor de España o la leyenda de un torero	ES	\N	alternative	\N	0
+tt0012177	8	Flor de España o la historia de un torero	ES	\N	imdbDisplay	\N	0
+tt0012181	8	El paraíso de un iluso	ES	\N	\N	\N	0
+tt0012190	10	Los cuatro jinetes del apocalipsis	ES	\N	\N	\N	0
+tt0012202	3	Fatty, nuevo rico	ES	\N	\N	\N	0
+tt0012224	23	El chivo	ES	\N	\N	\N	0
+tt0012238	10	Caballero sin tacha	ES	\N	\N	\N	0
+tt0012238	3	A los hombres	ES	\N	\N	\N	0
+tt0012247	1	El hábito	ES	\N	imdbDisplay	\N	0
+tt0012248	8	Respetad a la mujer	ES	\N	\N	\N	0
+tt0012249	8	Hamlet	ES	\N	imdbDisplay	\N	0
+tt0012253	5	Pamplinas nació el día 13	ES	\N	alternative	\N	0
+tt0012255	13	Keaton - La casa encantada	ES	\N	\N	\N	0
+tt0012278	8	El guardaespaldas	ES	\N	\N	\N	0
+tt0012281	10	La escalera de servicio	ES	\N	\N	\N	0
+tt0012304	16	Vacaciones	ES	\N	\N	\N	0
+tt0012313	5	La tumba India 2: El tigre de Esnapur	ES	\N	imdbDisplay	\N	0
+tt0012314	9	La tumba india: La misión del Yogi	ES	\N	imdbDisplay	\N	0
+tt0012328	8	Juanita	ES	\N	\N	\N	0
+tt0012334	4	Johan	ES	\N	imdbDisplay	\N	0
+tt0012349	2	El chico	ES	\N	imdbDisplay	\N	0
+tt0012349	38	El xicot	ES	ca	\N	\N	0
+tt0012362	1	La tragedia del molino	ES	\N	imdbDisplay	\N	0
+tt0012364	26	La carreta fantasma	ES	\N	imdbDisplay	\N	0
+tt0012368	2	Lady Hamilton	ES	\N	\N	\N	0
+tt0012390	3	Lilian	ES	\N	imdbDisplay	\N	0
+tt0012397	1	El pequeño Lord Fauntleroy	ES	\N	\N	\N	0
+tt0012406	5	Esposas sin amor	ES	\N	\N	\N	0
+tt0012413	6	Redención	ES	\N	imdbDisplay	\N	0
+tt0012422	8	El caballero de la dicha	ES	\N	imdbDisplay	\N	0
+tt0012423	6	Labios que mienten	ES	\N	\N	\N	0
+tt0012427	1	La virgen de las rosas	ES	\N	imdbDisplay	\N	0
+tt0012429	2	Llovido del cielo	ES	\N	imdbDisplay	\N	0
+tt0012435	4	El hombre de Río Perdido	ES	\N	\N	\N	0
+tt0012458	6	La campana de la medianoche	ES	\N	\N	\N	0
+tt0012494	12	Las tres luces	ES	\N	\N	reissue title	0
+tt0012494	21	La muerte cansada	ES	\N	imdbDisplay	\N	0
+tt0012494	24	La muerte cansada: las tres luces	ES	\N	\N	DVD box title	0
+tt0012494	3	Las 3 luces	ES	\N	imdbDisplay	\N	0
+tt0012514	2	El sargento O'Malley	ES	\N	imdbDisplay	\N	0
+tt0012518	4	El viejo nido	ES	\N	\N	\N	0
+tt0012532	3	Las dos huérfanas	ES	\N	imdbDisplay	\N	0
+tt0012533	1	La huerfanita	ES	\N	\N	\N	0
+tt0012538	13	Fuera de la ley	ES	\N	\N	\N	0
+tt0012543	2	El rostropálido	ES	\N	\N	\N	0
+tt0012563	2	Chiquilín no tiene enmienda	ES	\N	imdbDisplay	\N	0
+tt0012570	23	El gran espectáculo	ES	\N	\N	\N	0
+tt0012575	3	Pobres niños	ES	\N	imdbDisplay	\N	0
+tt0012580	5	Supremo tesoro	ES	\N	\N	\N	0
+tt0012600	14	La reina de Saba	ES	\N	\N	\N	0
+tt0012611	3	La casa de las ratas	ES	\N	imdbDisplay	\N	0
+tt0012618	2	Jaimito juez	ES	\N	\N	\N	0
+tt0012642	6	Marino de agua dulce	ES	\N	imdbDisplay	\N	0
+tt0012645	5	Sapho	ES	\N	imdbDisplay	\N	0
+tt0012650	1	El raíl	ES	\N	\N	\N	0
+tt0012651	13	El castillo encantado	ES	\N	video	\N	0
+tt0012651	5	El castillo Vogeloed	ES	\N	imdbDisplay	\N	0
+tt0012655	4	El octavo, no mentir	ES	\N	imdbDisplay	\N	0
+tt0012667	1	La señorita inútil	ES	\N	imdbDisplay	\N	0
+tt0012675	7	El caíd	ES	\N	imdbDisplay	\N	0
+tt0012727	2	Directo de París	ES	\N	imdbDisplay	\N	0
+tt0012752	16	Los tres mosqueteros	ES	\N	\N	\N	0
+tt0012755	4	Por la puerta de servicio	ES	\N	\N	\N	0
+tt0012763	6	David el duro	ES	\N	imdbDisplay	\N	0
+tt0012777	1	El fatty, viajante vendedor ambulante	ES	\N	\N	\N	0
+tt0012790	6	Bajo el látigo	ES	\N	\N	\N	0
+tt0012799	2	La verbena de la Paloma	ES	\N	imdbDisplay	\N	0
+tt0012801	5	El lápiz rojo	ES	\N	\N	\N	0
+tt0012807	2	Por el amor de un hijo	ES	\N	imdbDisplay	\N	0
+tt0012815	2	La rosa de Warmland	ES	\N	imdbDisplay	\N	0
+tt0012816	2	Victima de la calumnia	ES	\N	\N	\N	0
+tt0012823	4	La señorita del pelo corto	ES	\N	imdbDisplay	\N	0
+tt0012879	7	Adán y Eva	ES	\N	\N	\N	0
+tt0012884	2	El ahijado de los muertos	ES	\N	imdbDisplay	\N	0
+tt0012889	2	Alma húngara	ES	\N	imdbDisplay	\N	0
+tt0012890	1	Sangre española	ES	\N	working	\N	0
+tt0012890	2	Alma rifeña	ES	\N	imdbDisplay	\N	0
+tt0012902	6	Una mujer	ES	\N	imdbDisplay	\N	0
+tt0012903	3	Amor de árabe	ES	\N	\N	\N	0
+tt0012913	1	Mi primera aventura	ES	\N	\N	\N	0
+tt0012926	4	El precio de la belleza	ES	\N	imdbDisplay	\N	0
+tt0012938	12	Más fuertes que su amor	ES	\N	\N	\N	0
+tt0012938	16	Más fuerte que su amor	ES	\N	dvd	\N	0
+tt0012945	4	El herrero	ES	\N	\N	\N	0
+tt0012949	4	La obsesión de un sabio	ES	\N	\N	\N	0
+tt0012952	4	Sangre y arena	ES	\N	\N	\N	0
+tt0012960	4	La hija del capitán	ES	\N	\N	\N	0
+tt0012973	2	La tierra en llamas	ES	\N	\N	\N	0
+tt0012979	2	La rosa de Nueva York	ES	\N	\N	\N	0
+tt0012999	1	Carceleras	ES	\N	imdbDisplay	\N	0
+tt0013016	2	Un buen ingeniero	ES	\N	\N	\N	0
+tt0013025	19	La mudanza	ES	\N	imdbDisplay	\N	0
+tt0013033	10	Crainquebille	ES	\N	imdbDisplay	\N	0
+tt0013043	1	Los cuervos	ES	\N	imdbDisplay	\N	0
+tt0013047	4	Un juego peligroso	ES	\N	imdbDisplay	\N	0
+tt0013055	3	Sueños imposibles	ES	\N	\N	\N	0
+tt0013059	3	Érase una vez	ES	\N	imdbDisplay	\N	0
+tt0013064	3	La hija del granjero	ES	\N	imdbDisplay	\N	0
+tt0013071	9	En las gradas del trono	ES	\N	\N	\N	0
+tt0013075	5	Doctor Jack	ES	\N	\N	\N	0
+tt0013078	2	Don Juan Tenorio	ES	\N	imdbDisplay	\N	0
+tt0013086	14	Dr. Mabuse: El gran jugador [Part I]	ES	\N	\N	informal alternative title	0
+tt0013086	16	El doctor Mabuse	ES	\N	imdbDisplay	\N	0
+tt0013086	1	La pasión fatal del Doctor Mabuse	ES	\N	\N	video catalogue title	0
+tt0013086	27	Dr. Mabuse: El infierno [Part II]	ES	\N	\N	informal alternative title	0
+tt0013090	3	La dulce Paz	ES	\N	imdbDisplay	\N	0
+tt0013093	8	Oriente es Occidente	ES	\N	\N	\N	0
+tt0013099	19	La casa eléctrica	ES	\N	\N	\N	0
+tt0013104	8	La eterna llama	ES	\N	\N	\N	0
+tt0013122	10	La mujer de ninguna parte	ES	\N	imdbDisplay	\N	0
+tt0013125	2	El hijo del pirata	ES	\N	\N	\N	0
+tt0013134	8	De carne y hueso	ES	\N	imdbDisplay	\N	0
+tt0013140	11	Esposas frívolas	ES	\N	\N	\N	0
+tt0013145	2	No me olvides	ES	\N	\N	\N	0
+tt0013146	3	La ley olvidada	ES	\N	\N	\N	0
+tt0013158	22	El Polo Norte	ES	\N	\N	\N	0
+tt0013161	6	A galope tendido	ES	\N	imdbDisplay	\N	0
+tt0013169	16	Los estigmatizados	ES	\N	imdbDisplay	\N	0
+tt0013181	1	Gloria que mata: Granero	ES	\N	\N	\N	0
+tt0013194	15	Jaimito vencedor	ES	\N	\N	\N	0
+tt0013194	16	El vencedor	ES	\N	\N	\N	0
+tt0013194	5	Jaimito jugador de golf	ES	\N	\N	\N	0
+tt0013197	3	El buen proveedor	ES	\N	\N	\N	0
+tt0013201	22	El mimado de la abuelita	ES	\N	\N	\N	0
+tt0013230	6	A las mujeres	ES	\N	\N	\N	0
+tt0013251	7	El hotentote	ES	\N	\N	\N	0
+tt0013253	1	Corazones humanos	ES	\N	imdbDisplay	\N	0
+tt0013257	21	Häxan. La brujería a través de los tiempos	ES	\N	imdbDisplay	\N	0
+tt0013258	2	El héroe de la legión	ES	\N	imdbDisplay	\N	0
+tt0013262	2	Que te crees tú eso	ES	\N	\N	\N	0
+tt0013271	1	Isidro Labrador	ES	\N	imdbDisplay	\N	0
+tt0013321	4	La señorita sonrisas	ES	\N	\N	\N	0
+tt0013332	4	Lorna Doone	ES	\N	\N	\N	0
+tt0013342	6	Lucrecia Borgia	ES	\N	\N	\N	0
+tt0013354	3	El maestro de esgrima	ES	\N	imdbDisplay	\N	0
+tt0013363	1	La oculta providencia	ES	\N	\N	\N	0
+tt0013364	3	El hombre que vio el futuro	ES	\N	\N	\N	0
+tt0013371	3	De hombre a hombre	ES	\N	imdbDisplay	\N	0
+tt0013372	4	El homicida	ES	\N	\N	\N	0
+tt0013378	2	El martirio de vivir	ES	\N	imdbDisplay	\N	0
+tt0013386	15	El carrusel de la vida	ES	\N	dvd	\N	0
+tt0013386	21	Los amores de un príncipe o El carrusel de la vida	ES	\N	\N	\N	0
+tt0013388	8	Mesalina	ES	\N	\N	\N	0
+tt0013390	1	Militona, la tragedia de un torero	ES	\N	imdbDisplay	\N	0
+tt0013402	6	El Conde de Montecristo	ES	\N	imdbDisplay	\N	0
+tt0013417	3	Un yanki en la Argentina	ES	\N	\N	\N	0
+tt0013422	10	Las relaciones con mi mujer	ES	\N	\N	\N	0
+tt0013427	2	Nanuk, el esquimal	ES	\N	\N	\N	0
+tt0013428	6	Nathan el Sabio	ES	\N	\N	complete title	0
+tt0013433	5	Medicina legal	ES	\N	\N	\N	0
+tt0013437	1	La ninfa del río	ES	\N	imdbDisplay	\N	0
+tt0013442	20	Nosferatu	ES	\N	imdbDisplay	\N	0
+tt0013442	22	Nosferatu, una simfonia del terror	ES	ca	alternative	\N	0
+tt0013444	4	Número 13	ES	\N	imdbDisplay	\N	0
+tt0013452	5	El primer amor	ES	\N	imdbDisplay	\N	0
+tt0013468	1	Orquesta Club Virginia	ES	\N	imdbDisplay	\N	0
+tt0013469	2	Otelo o El moro de Venecia	ES	\N	\N	\N	0
+tt0013472	4	La pandilla	ES	\N	imdbDisplay	\N	0
+tt0013486	19	Charlot en - Día de paga	ES	\N	\N	\N	0
+tt0013486	21	Oficios y estropicios de Charlot	ES	\N	\N	\N	0
+tt0013486	5	Día de paga	ES	\N	\N	\N	0
+tt0013487	8	Cleo la francesita	ES	\N	imdbDisplay	\N	0
+tt0013488	4	Tin-Tin de mi corazón	ES	\N	\N	\N	0
+tt0013496	18	El beso de la fama	ES	\N	imdbDisplay	\N	0
+tt0013502	3	No hay juegos con el amor	ES	\N	imdbDisplay	\N	0
+tt0013515	8	El prisionero de Zenda	ES	\N	\N	\N	0
+tt0013525	3	Las cataratas del diablo	ES	\N	\N	\N	0
+tt0013544	2	La reina mora	ES	\N	imdbDisplay	\N	0
+tt0013556	12	Robin de los bosques	ES	\N	\N	\N	0
+tt0013558	1	La protesta de una raza	ES	\N	imdbDisplay	\N	0
+tt0013559	2	El rosario	ES	\N	\N	\N	0
+tt0013571	2	Salomé	ES	\N	\N	\N	0
+tt0013579	10	Sombras	ES	\N	\N	\N	0
+tt0013611	9	A través de sonrisas	ES	\N	imdbDisplay	\N	0
+tt0013617	2	El capricho de una dama	ES	\N	\N	\N	0
+tt0013620	3	Sol y sombra	ES	\N	imdbDisplay	\N	0
+tt0013624	2	Canciones de amor	ES	\N	\N	\N	0
+tt0013637	8	La tormenta	ES	\N	\N	\N	0
+tt0013662	13	Tess en el país de las tempestades	ES	\N	\N	\N	0
+tt0013668	5	The Third Alarm	ES	\N	imdbDisplay	\N	0
+tt0013669	3	Treinta días	ES	\N	imdbDisplay	\N	0
+tt0013670	1	La hija del general	ES	\N	imdbDisplay	\N	0
+tt0013674	16	Los tres mosqueteros	ES	\N	\N	\N	0
+tt0013676	5	Tierra baja	ES	\N	\N	\N	0
+tt0013688	3	El tributo del mar	ES	\N	\N	\N	0
+tt0013704	4	Corazón de lobo	ES	\N	imdbDisplay	\N	0
+tt0013710	10	Mujeres frívolas	ES	\N	\N	\N	0
+tt0013716	1	El juego de la vida	ES	\N	\N	\N	0
+tt0013719	4	Bajo dos banderas	ES	\N	\N	\N	0
+tt0013724	4	A ciegas por los hielos	ES	\N	\N	\N	0
+tt0013730	5	El juicio de Dios	ES	\N	imdbDisplay	\N	0
+tt0013734	2	Viajar sin billete	ES	\N	imdbDisplay	\N	0
+tt0013735	3	El herrero de la aldea	ES	\N	imdbDisplay	\N	0
+tt0013741	15	La mujer del Faraón	ES	\N	\N	\N	0
+tt0013750	2	La hermana del rey	ES	\N	\N	\N	0
+tt0013795	1	El tesoro de la carabela	ES	\N	\N	\N	0
+tt0013802	9	El rajah de Dharmagar	ES	\N	\N	\N	0
+tt0013806	2	Juventud victoriosa	ES	\N	imdbDisplay	\N	0
+tt0013812	4	Las aventuras de Arsenio Lupin	ES	\N	imdbDisplay	\N	0
+tt0013814	3	Puños de hierro	ES	\N	imdbDisplay	\N	0
+tt0013815	1	Veredicto de inculpabilidad	ES	\N	imdbDisplay	\N	0
+tt0013817	4	La Costilla de Adán	ES	\N	\N	\N	0
+tt0013819	7	El día en que vuelve el amor	ES	\N	imdbDisplay	\N	0
+tt0013820	2	La alegría del batallón	ES	\N	imdbDisplay	\N	0
+tt0013824	4	Todos los hermanos fueron valientes	ES	\N	\N	\N	0
+tt0013827	2	Alma de Dios	ES	\N	imdbDisplay	\N	0
+tt0013830	5	La antigua ley	ES	\N	\N	\N	0
+tt0013831	2	Amor de campesino	ES	\N	imdbDisplay	\N	0
+tt0013841	6	Cenizas de odio	ES	\N	\N	\N	0
+tt0013845	6	El castillo de los fantasmas	ES	\N	\N	\N	0
+tt0013850	4	María del Carmen	ES	\N	\N	\N	0
+tt0013858	10	El aeronauta	ES	\N	\N	\N	0
+tt0013861	2	Gotas de rocío	ES	\N	\N	\N	0
+tt0013861	6	Jaimito gotas de rocío	ES	\N	\N	\N	0
+tt0013863	8	Bavu, el bolchevique	ES	\N	\N	\N	0
+tt0013867	6	Bella Donna	ES	\N	\N	\N	0
+tt0013870	6	Como un hermano	ES	\N	\N	\N	0
+tt0013877	7	La octava esposa de Barba Azul	ES	\N	\N	\N	0
+tt0013886	7	Esposa modelo	ES	\N	\N	\N	0
+tt0013891	6	Las luces de Broadway	ES	\N	\N	\N	0
+tt0013899	1	La bruja	ES	\N	imdbDisplay	\N	0
+tt0013908	6	El grito de la furia	ES	\N	\N	\N	0
+tt0013909	14	Sota, caballo y rey	ES	\N	\N	\N	0
+tt0013919	1	Falsa reputación	ES	\N	\N	\N	0
+tt0013920	6	La marca de fuego	ES	\N	\N	\N	0
+tt0013921	4	La sangre y el alma	ES	\N	imdbDisplay	\N	0
+tt0013922	2	Los súbditos de su majestad el Jazz Band	ES	\N	\N	\N	0
+tt0013926	5	Chiquilín, artista de circo	ES	\N	imdbDisplay	\N	0
+tt0013944	1	Pacto de amor	ES	\N	\N	\N	0
+tt0013946	2	Cordelia, la magnífica	ES	\N	\N	\N	0
+tt0013951	4	La caravana de Oregón	ES	\N	\N	\N	0
+tt0013952	1	Crac y compañía	ES	\N	imdbDisplay	\N	0
+tt0013962	2	Curro Vargas	ES	\N	imdbDisplay	\N	0
+tt0013965	10	La orfandad de Chiquilín	ES	\N	\N	\N	0
+tt0013966	5	La danzarina del Nilo	ES	\N	imdbDisplay	\N	0
+tt0013969	1	El otoño de la vida	ES	\N	\N	\N	0
+tt0013971	5	La peligrosa rebelde	ES	\N	imdbDisplay	\N	0
+tt0013976	1	Las hijas de los hombres ricos	ES	\N	imdbDisplay	\N	0
+tt0013992	4	El diario de Glúmov	ES	\N	imdbDisplay	\N	0
+tt0013995	2	La Dolores	ES	\N	imdbDisplay	\N	0
+tt0013996	2	Doloretes	ES	\N	imdbDisplay	\N	0
+tt0014002	2	Un drama en Bilbao	ES	\N	imdbDisplay	\N	0
+tt0014008	2	Con la mejor intención	ES	\N	imdbDisplay	\N	0
+tt0014012	2	Mundos opuestos	ES	\N	\N	\N	0
+tt0014014	3	El barco trágico	ES	\N	imdbDisplay	\N	0
+tt0014016	1	Ellas y ellos	ES	\N	imdbDisplay	\N	0
+tt0014018	2	Las entrañas de Madrid	ES	\N	\N	\N	0
+tt0014021	14	Los enemigos de la mujer	ES	\N	\N	\N	0
+tt0014023	4	La ciudad eterna	ES	\N	\N	\N	0
+tt0014024	2	La eterna lucha	ES	\N	\N	\N	0
+tt0014036	4	La famosa Señora de Fair	ES	\N	\N	\N	0
+tt0014037	7	El círculo de la moda	ES	\N	\N	\N	0
+tt0014042	1	El delincuente	ES	\N	imdbDisplay	\N	0
+tt0014066	6	La hija del nuevo rico	ES	\N	imdbDisplay	\N	0
+tt0014077	2	Reinecita de provincia	ES	\N	\N	\N	0
+tt0014083	6	La muchacha que yo amaba	ES	\N	\N	\N	0
+tt0014096	3	El hombre olvida	ES	\N	\N	\N	0
+tt0014097	7	Jaimito todo un hombre	ES	\N	\N	\N	0
+tt0014097	8	Tomasín todo un hombre	ES	\N	\N	\N	0
+tt0014100	6	La diosa verde	ES	\N	\N	\N	0
+tt0014101	2	El botones del Ritz	ES	\N	\N	\N	0
+tt0014104	1	Los guapos	ES	\N	imdbDisplay	\N	0
+tt0014104	3	Gente brava	ES	\N	alternative	\N	0
+tt0014108	12	La saga de Gunnar Hede	ES	\N	\N	\N	0
+tt0014108	2	Contra sioberbia...	ES	\N	imdbDisplay	\N	0
+tt0014108	9	La saga de Gunnar Hede	ES	ca	\N	\N	0
+tt0014109	13	La leyenda de Gösta Berling	ES	\N	video	\N	0
+tt0014109	6	La saga de Gösta Berling	ES	\N	\N	\N	0
+tt0014110	7	En las ruinas	ES	\N	imdbDisplay	\N	0
+tt0014111	6	La canción del fracaso es triste	ES	\N	imdbDisplay	\N	0
+tt0014136	2	Su misterioso amor	ES	\N	imdbDisplay	\N	0
+tt0014137	2	Hollywood o La meca de la cinematografía	ES	\N	\N	\N	0
+tt0014141	1	El naufragio de la humanidad	ES	\N	\N	\N	0
+tt0014144	2	El telegrafista del pueblo	ES	\N	imdbDisplay	\N	0
+tt0014145	5	La pimpinela escarlata	ES	\N	\N	\N	0
+tt0014146	9	I.N.R.I.	ES	\N	\N	\N	0
+tt0014147	1	Si llega el invierno	ES	\N	\N	\N	0
+tt0014151	6	En el palacio del rey	ES	\N	\N	\N	0
+tt0014158	3	La isla de los barcos perdidos	ES	\N	\N	\N	0
+tt0014164	6	La reina de Jazzmania	ES	\N	\N	\N	0
+tt0014167	6	La ciudad del fuego	ES	\N	imdbDisplay	\N	0
+tt0014175	3	El mercader de Venecia	ES	\N	imdbDisplay	\N	0
+tt0014181	1	El puerto de las nieblas	ES	\N	imdbDisplay	\N	0
+tt0014183	7	La tierra natal	ES	\N	imdbDisplay	\N	0
+tt0014190	7	Quien roba a un ladrón	ES	\N	\N	\N	0
+tt0014191	10	La avalancha	ES	\N	imdbDisplay	\N	0
+tt0014205	1	El Nueva York de antaño	ES	\N	imdbDisplay	\N	0
+tt0014211	9	Viva el rey	ES	\N	\N	\N	0
+tt0014213	11	Perdida y encontrada	ES	\N	\N	\N	0
+tt0014218	12	Nido de amor	ES	\N	\N	\N	0
+tt0014218	3	Pamplinas lobo de mar	ES	\N	alternative	\N	0
+tt0014239	2	La calle mayor	ES	\N	\N	\N	0
+tt0014240	2	La mala ley	ES	\N	imdbDisplay	\N	0
+tt0014248	1	El hombre de pecho triunfa	ES	\N	\N	\N	0
+tt0014261	2	Maruxa	ES	\N	imdbDisplay	\N	0
+tt0014290	1	El monje de Portacoeli	ES	\N	imdbDisplay	\N	0
+tt0014321	13	La jornada de la muerte	ES	\N	\N	\N	0
+tt0014338	4	El huérfano de París	ES	\N	\N	\N	0
+tt0014341	29	La ley de la hospitalidad	ES	\N	imdbDisplay	\N	0
+tt0014345	2	El padre Juanico	ES	\N	imdbDisplay	\N	0
+tt0014348	5	Para toda la vida	ES	\N	imdbDisplay	\N	0
+tt0014351	2	Pedrucho	ES	\N	imdbDisplay	\N	0
+tt0014358	19	El peregrino	ES	\N	\N	\N	0
+tt0014364	6	Cómo todas debéis ser	ES	\N	imdbDisplay	\N	0
+tt0014365	5	El botín de los piratas	ES	\N	\N	promotional title	0
+tt0014366	1	El pobre Valbuena	ES	\N	imdbDisplay	\N	0
+tt0014369	1	Por la vida del Rey	ES	\N	\N	\N	0
+tt0014369	2	Por la Patria y por el Rey	ES	\N	\N	\N	0
+tt0014369	3	Por la patria: memorias de un legionario	ES	\N	\N	\N	0
+tt0014369	5	Memorias de un legionario	ES	\N	\N	\N	0
+tt0014370	2	El nuevo negocio	ES	\N	\N	\N	0
+tt0014373	1	El primer combate	ES	\N	imdbDisplay	\N	0
+tt0014378	2	Problema resuelto	ES	\N	imdbDisplay	\N	0
+tt0014379	8	Hijas pródigas	ES	\N	imdbDisplay	\N	0
+tt0014386	2	El puñao de rosas	ES	\N	imdbDisplay	\N	0
+tt0014389	6	Corazones intrépidos	ES	\N	\N	\N	0
+tt0014406	4	El retorno a la razón	ES	\N	imdbDisplay	\N	0
+tt0014408	2	Ricardo Corazón de León	ES	\N	\N	\N	0
+tt0014415	3	Rosario, la cortijera	ES	\N	imdbDisplay	\N	0
+tt0014416	15	Rosita, la cantante callejera	ES	\N	imdbDisplay	\N	0
+tt0014417	23	La rueda	ES	\N	imdbDisplay	\N	0
+tt0014418	4	Labios rojos	ES	\N	imdbDisplay	\N	0
+tt0014424	5	Ruperto de Hentzau	ES	\N	imdbDisplay	\N	0
+tt0014429	32	El hombre mosca	ES	\N	imdbDisplay	\N	0
+tt0014432	1	Sanroma	ES	\N	imdbDisplay	\N	0
+tt0014434	2	Santa Isabel de Ceres	ES	\N	imdbDisplay	\N	0
+tt0014436	2	La sardanista	ES	\N	imdbDisplay	\N	0
+tt0014440	15	Scaramouche	ES	\N	\N	\N	0
+tt0014456	8	Un sueño de juventud	ES	\N	imdbDisplay	\N	0
+tt0014459	4	La sirena de piedra	ES	\N	imdbDisplay	\N	0
+tt0014468	6	La marca de los cuatro	ES	\N	\N	\N	0
+tt0014469	2	El mudo mandato	ES	\N	\N	\N	0
+tt0014478	3	En las ruinas de Reims	ES	\N	\N	\N	0
+tt0014491	1	El tío paciencia	ES	\N	\N	\N	0
+tt0014492	2	Sol de justicia	ES	\N	imdbDisplay	\N	0
+tt0014497	2	Almas en venta	ES	\N	\N	\N	0
+tt0014499	3	La bailarina española	ES	\N	\N	\N	0
+tt0014515	11	El testamento del Capitán Applejack	ES	\N	\N	\N	0
+tt0014528	7	El templo de Venus	ES	\N	imdbDisplay	\N	0
+tt0014532	2	Los diez mandamientos	ES	\N	\N	\N	0
+tt0014538	12	Tres edades	ES	\N	imdbDisplay	\N	0
+tt0014539	1	Venciendo abismos	ES	\N	\N	\N	0
+tt0014542	2	Tres solterones discretos	ES	\N	\N	\N	0
+tt0014543	6	A caza de emociones	ES	\N	\N	\N	0
+tt0014554	7	La canción del desfiladero de la montaña	ES	\N	imdbDisplay	\N	0
+tt0014558	3	Tragedias de amor	ES	\N	\N	\N	0
+tt0014559	2	Herencia de muerte	ES	\N	\N	\N	0
+tt0014568	5	Bajo la púrpura cardenalicia	ES	\N	\N	\N	0
+tt0014572	3	Ambición ciega	ES	\N	imdbDisplay	\N	0
+tt0014573	2	Venganza isleña	ES	\N	imdbDisplay	\N	0
+tt0014576	2	Contra viento y marea	ES	\N	imdbDisplay	\N	0
+tt0014586	13	El hombre de las figuras de cera	ES	\N	\N	\N	0
+tt0014586	17	El gabinet de les figures de cera	ES	ca	\N	\N	0
+tt0014588	1	El judío errante	ES	\N	\N	\N	0
+tt0014589	1	Grandeza de humildes	ES	\N	imdbDisplay	\N	0
+tt0014596	5	El afán de triunfar	ES	\N	\N	\N	0
+tt0014601	5	El pescador de perlas	ES	\N	\N	\N	0
+tt0014604	6	Flor que renace	ES	\N	\N	\N	0
+tt0014605	12	La hermana blanca	ES	\N	\N	\N	0
+tt0014606	1	El tigre blanco	ES	\N	imdbDisplay	\N	0
+tt0014611	19	¡Venga alegría!	ES	\N	imdbDisplay	\N	0
+tt0014621	2	La mujer de las cuatro caras	ES	\N	\N	\N	0
+tt0014624	12	Una mujer en Paris	ES	\N	dvd	\N	0
+tt0014624	32	Una mujer de París	ES	\N	imdbDisplay	\N	0
+tt0014626	8	El aplauso del mundo	ES	\N	imdbDisplay	\N	0
+tt0014629	5	La noche	ES	\N	imdbDisplay	\N	0
+tt0014631	4	No engañe a su mujer	ES	\N	\N	\N	0
+tt0014636	6	Zaza	ES	\N	\N	\N	0
+tt0014641	1	De cuarenta caballos	ES	\N	imdbDisplay	\N	0
+tt0014642	2	A fuerza de arrastrarse	ES	\N	imdbDisplay	\N	0
+tt0014646	7	Aelita	ES	\N	imdbDisplay	\N	0
+tt0014653	4	La muerte al amanecer	ES	\N	imdbDisplay	\N	0
+tt0014667	5	Toda una noche	ES	\N	imdbDisplay	\N	0
+tt0014672	7	América	ES	\N	imdbDisplay	\N	0
+tt0014679	2	El árabe	ES	\N	\N	\N	0
+tt0014680	3	Arabella	ES	\N	imdbDisplay	\N	0
+tt0014689	1	La mujer perfecta	ES	\N	imdbDisplay	\N	0
+tt0014690	4	Por mandato de su hijo	ES	\N	\N	\N	0
+tt0014698	2	Buddy batallador	ES	\N	\N	\N	0
+tt0014702	11	El árbitro de la moda	ES	\N	\N	\N	0
+tt0014702	16	El árbitro de la elegancia	ES	\N	\N	\N	0
+tt0014711	2	El amado bárbaro	ES	\N	imdbDisplay	\N	0
+tt0014721	1	El pecado de volver a ser joven	ES	\N	\N	\N	0
+tt0014733	10	El hijo de Flandes	ES	\N	\N	\N	0
+tt0014744	8	La calle de las risas y de las lágrimas	ES	\N	\N	\N	0
+tt0014745	2	Un vaquero en sociedad	ES	\N	\N	\N	0
+tt0014751	1	La buenaventura de Pitusín	ES	\N	imdbDisplay	\N	0
+tt0014754	6	La bailarina del Cairo	ES	\N	\N	\N	0
+tt0014759	9	El capitán Blood	ES	\N	\N	\N	0
+tt0014760	1	El capitán Alegría	ES	\N	\N	\N	0
+tt0014764	1	La casa de la Troya	ES	\N	imdbDisplay	\N	0
+tt0014767	9	Cambio de esposos	ES	\N	\N	\N	0
+tt0014768	2	La chavala	ES	\N	imdbDisplay	\N	0
+tt0014774	1	La encantadora Circe	ES	\N	\N	\N	0
+tt0014777	4	La ciudad que nunca duerme	ES	\N	\N	\N	0
+tt0014779	7	El cadete más valiente	ES	\N	\N	\N	0
+tt0014808	2	El milagro de Lourdes	ES	\N	\N	\N	0
+tt0014815	4	Como un ciclón	ES	\N	\N	\N	0
+tt0014818	1	Una madre	ES	\N	\N	\N	0
+tt0014826	5	El infierno del Dante	ES	\N	\N	\N	0
+tt0014847	5	Los dos pilletes	ES	\N	\N	\N	0
+tt0014848	1	Diego Corrientes	ES	\N	imdbDisplay	\N	0
+tt0014851	1	Don Juan	ES	\N	imdbDisplay	\N	0
+tt0014853	1	No desonfíes de tu marido	ES	\N	\N	\N	0
+tt0014854	14	Dorotea Vernon	ES	\N	\N	\N	0
+tt0014863	2	Edurne, modista bilbaína	ES	\N	imdbDisplay	\N	0
+tt0014872	14	Entreacto	ES	\N	\N	\N	0
+tt0014877	2	Los maridos de Edith	ES	\N	\N	\N	0
+tt0014881	8	Pies de arcilla	ES	\N	\N	\N	0
+tt0014900	8	Las finanzas del Gran Duque	ES	\N	imdbDisplay	\N	0
+tt0014902	4	El capitán Pedro Martel	ES	\N	imdbDisplay	\N	0
+tt0014903	2	Aprendiz de todo, maestro de nada	ES	\N	imdbDisplay	\N	0
+tt0014925	17	La frivolidad de una dama	ES	\N	\N	\N	0
+tt0014930	4	Riqueza contra nobleza	ES	\N	\N	\N	0
+tt0014931	5	La barraca de los monstruos	ES	\N	\N	\N	0
+tt0014940	5	La reina de los tiempos modernos	ES	\N	imdbDisplay	\N	0
+tt0014945	10	El Tenorio tímido	ES	\N	\N	\N	0
+tt0014951	2	El destino de los hijos	ES	\N	imdbDisplay	\N	0
+tt0014952	6	El pez dorado	ES	\N	\N	\N	0
+tt0014954	2	Los granujas	ES	\N	imdbDisplay	\N	0
+tt0014965	2	La dama del yate	ES	\N	\N	\N	0
+tt0014972	3	El que recibe el bofetón	ES	\N	imdbDisplay	\N	0
+tt0014977	3	Corazones de roble	ES	\N	\N	\N	0
+tt0014981	6	Su primer amor	ES	\N	\N	\N	0
+tt0014982	7	La novela de una noche	ES	\N	\N	\N	0
+tt0014996	9	Un repórter modelo	ES	\N	\N	\N	0
+tt0016004	5	El abanico de Lady Windermere	ES	\N	imdbDisplay	\N	0
+tt0016005	4	La dama de la noche	ES	\N	\N	\N	0
+tt0016006	5	Una gran señora	ES	\N	\N	\N	0
+tt0016012	2	El lazarillo de Tormes	ES	\N	imdbDisplay	\N	0
+tt0016013	3	El tumbón	ES	\N	\N	\N	0
+tt0016014	5	La que no sabía amar	ES	\N	\N	\N	0
+tt0016022	1	Don Pancho	ES	\N	imdbDisplay	\N	0
+tt0016023	8	Las luces de Broadway	ES	\N	\N	\N	0
+tt0016025	2	El último correo	ES	\N	imdbDisplay	\N	0
+tt0016028	3	La pequeña Anita	ES	\N	\N	\N	0
+tt0016028	7	La pequeña Annie Rooney	ES	\N	\N	\N	0
+tt0016029	9	La pequeña coronela	ES	\N	\N	\N	0
+tt0016030	3	La francesita	ES	\N	\N	\N	0
+tt0016035	1	El lobo	ES	\N	imdbDisplay	\N	0
+tt0016038	2	La mujer y el bruto	ES	\N	\N	\N	0
+tt0016039	3	El mundo perdido	ES	\N	imdbDisplay	\N	0
+tt0016040	7	Perdida y ganada	ES	\N	\N	\N	0
+tt0016048	8	Novios en cuarentena	ES	\N	\N	\N	0
+tt0016051	3	El trece de la suerte	ES	\N	\N	\N	0
+tt0016065	5	Madame Sans-Gêne	ES	\N	\N	\N	0
+tt0016066	2	Madrid en el año 2000	ES	\N	imdbDisplay	\N	0
+tt0016087	4	La manicura	ES	\N	\N	\N	0
+tt0016097	9	La novia fingida	ES	\N	\N	\N	0
+tt0016101	6	Se cruzó en mi camino	ES	\N	\N	\N	0
+tt0016103	4	La pasión del lujo	ES	\N	imdbDisplay	\N	0
+tt0016104	4	La viuda alegre	ES	\N	\N	\N	0
+tt0016112	12	Los miserables	ES	\N	\N	\N	0
+tt0016114	7	La señorita Barba Azul	ES	\N	\N	\N	0
+tt0016118	2	Mi buen párroco... y los pobres	ES	\N	\N	\N	0
+tt0016119	3	Mi buen párroco... y los ricos	ES	\N	\N	\N	0
+tt0016120	1	Mi tío	ES	\N	\N	\N	0
+tt0016127	3	El águila de la montaña	ES	\N	\N	\N	0
+tt0016130	6	No hay guerra sin dinero	ES	\N	imdbDisplay	\N	0
+tt0016150	10	La triste aventura	ES	\N	\N	\N	0
+tt0016152	5	El nuevo campeón	ES	\N	imdbDisplay	\N	0
+tt0016157	14	Nueva York de noche	ES	\N	imdbDisplay	\N	0
+tt0016159	1	El ser humano	ES	\N	imdbDisplay	\N	0
+tt0016160	1	Noche de alboradas	ES	qbp	\N	\N	0
+tt0016161	1	El niño de las monjas	ES	\N	imdbDisplay	\N	0
+tt0016162	1	El niño de oro	ES	\N	imdbDisplay	\N	0
+tt0016164	3	Nobleza baturra	ES	\N	imdbDisplay	\N	0
+tt0016165	1	Nobleza de corazones	ES	\N	imdbDisplay	\N	0
+tt0016166	2	El general Nogi y el señor Kuma	ES	\N	imdbDisplay	\N	0
+tt0016171	1	La máscara y el rostro	ES	\N	imdbDisplay	\N	0
+tt0016171	2	La máscara y el otro	ES	\N	imdbDisplay	\N	0
+tt0016172	7	¡Ay, doctor!	ES	\N	imdbDisplay	\N	0
+tt0016173	2	Ojos tristes	ES	\N	imdbDisplay	\N	0
+tt0016174	9	Ropa vieja	ES	\N	\N	\N	0
+tt0016205	3	Regalo de boda	ES	\N	\N	\N	0
+tt0016210	2	Pepita Jiménez	ES	\N	imdbDisplay	\N	0
+tt0016212	1	El perfecto payaso	ES	\N	\N	\N	0
+tt0016220	23	El fantasma de la ópera	ES	\N	\N	\N	0
+tt0016224	3	Lo que todos buscamos	ES	\N	imdbDisplay	\N	0
+tt0016226	5	Días de colegial	ES	\N	\N	\N	0
+tt0016230	5	El jardín de la alegría	ES	\N	\N	\N	0
+tt0016232	10	Pelirrojo	ES	\N	dvd	\N	0
+tt0016232	6	Siembra de dolor	ES	\N	dvd	\N	0
+tt0016235	10	Los jinetes del correo	ES	\N	\N	\N	0
+tt0016241	12	El jazz-Band del follies	ES	\N	\N	\N	0
+tt0016243	2	Para conservar el marido	ES	\N	\N	\N	0
+tt0016258	1	El trapero	ES	\N	\N	\N	0
+tt0016270	4	Por su honra	ES	\N	imdbDisplay	\N	0
+tt0016275	7	Echando chispas	ES	\N	\N	\N	0
+tt0016276	3	El kimono rojo	ES	\N	imdbDisplay	\N	0
+tt0016281	1	Rejas y votos	ES	\N	imdbDisplay	\N	0
+tt0016282	2	El reloj del anticuario o Del Rastro a La Castellana	ES	\N	imdbDisplay	\N	0
+tt0016293	2	Los riegos del Alto Aragón	ES	\N	imdbDisplay	\N	0
+tt0016294	7	La huella del pasado	ES	\N	\N	\N	0
+tt0016300	3	Carne de mar	ES	\N	\N	\N	0
+tt0016304	1	Ruta gloriosa	ES	\N	imdbDisplay	\N	0
+tt0016307	2	Sally	ES	\N	\N	\N	0
+tt0016308	11	Sally la hija del circo	ES	\N	\N	\N	0
+tt0016309	3	Sally, Irene y Mary	ES	\N	\N	\N	0
+tt0016310	2	The Salvation Hunters	ES	\N	imdbDisplay	\N	0
+tt0016311	2	Sangre azul y sangre roja	ES	\N	imdbDisplay	\N	0
+tt0016312	2	La santa	ES	\N	imdbDisplay	\N	0
+tt0016332	13	Siete ocasiones	ES	\N	imdbDisplay	\N	0
+tt0016333	4	La casa de las siete llaves	ES	\N	\N	\N	0
+tt0016335	2	El señor feudal	ES	\N	imdbDisplay	\N	0
+tt0016344	2	El llanto del crisantemo blanco	ES	\N	imdbDisplay	\N	0
+tt0016345	6	El golpe de muerte	ES	\N	\N	\N	0
+tt0016348	1	El orgullo de la estirpe	ES	\N	\N	\N	0
+tt0016358	1	Lo que toda mujer quiere	ES	\N	\N	\N	0
+tt0016361	5	La llama del amor	ES	\N	imdbDisplay	\N	0
+tt0016366	1	La sobrina del cura	ES	\N	imdbDisplay	\N	0
+tt0016382	1	Salvado por la radio	ES	\N	imdbDisplay	\N	0
+tt0016385	2	El último crimen	ES	\N	\N	\N	0
+tt0016390	7	La Venus intrépida	ES	\N	\N	\N	0
+tt0016394	2	De la cocina al escenario	ES	\N	\N	\N	0
+tt0016395	8	Y supo ser madre	ES	\N	\N	\N	0
+tt0016403	3	La calle del olvido	ES	\N	\N	\N	0
+tt0016409	5	El cisne	ES	\N	\N	\N	0
+tt0016413	3	Amores de niña	ES	\N	imdbDisplay	\N	0
+tt0016417	7	Con gracias a porfía	ES	\N	\N	\N	0
+tt0016420	5	Crimen y castigo	ES	\N	imdbDisplay	\N	0
+tt0016429	1	Monte del trueno	ES	\N	imdbDisplay	\N	0
+tt0016430	4	La horda maldita	ES	\N	\N	\N	0
+tt0016446	6	Amor de padre	ES	\N	\N	\N	0
+tt0016457	5	El mal de las esposas	ES	\N	\N	\N	0
+tt0016461	9	El hijo de la pradera	ES	\N	imdbDisplay	\N	0
+tt0016467	3	El bailarín de mi mujer	ES	\N	alternative	\N	0
+tt0016467	5	La fiebre de la danza	ES	\N	imdbDisplay	\N	0
+tt0016473	1	El trío fantástico	ES	\N	\N	\N	0
+tt0016480	6	El ocaso de una raza	ES	\N	imdbDisplay	\N	0
+tt0016481	4	Varieté	ES	\N	\N	\N	0
+tt0016487	13	Desheredados	ES	\N	imdbDisplay	\N	0
+tt0016490	2	La virgen de cristal	ES	\N	imdbDisplay	\N	0
+tt0016491	5	La otra madre	ES	\N	imdbDisplay	\N	0
+tt0016497	3	El despertar de la ciudad	ES	\N	\N	\N	0
+tt0016499	9	El sueño de un vals	ES	\N	\N	\N	0
+tt0016500	4	El hijo pródigo	ES	\N	\N	\N	0
+tt0016514	5	La rueda	ES	\N	\N	\N	0
+tt0016523	6	El desierto blanco	ES	\N	\N	\N	0
+tt0016530	7	La mujer del centauro	ES	\N	\N	\N	0
+tt0016534	2	Promesa en prenda	ES	\N	\N	\N	0
+tt0016534	3	Montería salvaje	ES	\N	\N	\N	0
+tt0016544	8	Tomasín en el reino de Oz	ES	\N	imdbDisplay	\N	0
+tt0016548	9	Una mujer de mundo	ES	\N	\N	\N	0
+tt0016550	5	Juguete de las mujeres	ES	\N	\N	\N	0
+tt0016560	3	Alejandrito el Magno	ES	\N	imdbDisplay	\N	0
+tt0016561	7	Zigano	ES	\N	\N	\N	0
+tt0016568	1	A buen juez, mejor testigo	ES	\N	imdbDisplay	\N	0
+tt0016572	2	Afortunado en amores	ES	\N	\N	\N	0
+tt0016575	1	El héroe del batallón	ES	\N	\N	\N	0
+tt0016597	4	Casi una señora	ES	\N	\N	\N	0
+tt0016598	9	Aloma del Mar del Sur	ES	\N	\N	\N	0
+tt0016601	5	Como un gentleman	ES	\N	\N	\N	0
+tt0016603	5	La Venus americana	ES	\N	\N	\N	0
+tt0016604	5	A orillas del Danubio	ES	\N	\N	\N	0
+tt0016608	2	Los apuros de Octavio	ES	\N	imdbDisplay	\N	0
+tt0016610	3	El caballero de Arizona	ES	\N	\N	\N	0
+tt0016616	8	En pública subasta	ES	\N	\N	\N	0
+tt0016617	4	Las novias de un soltero	ES	\N	\N	\N	0
+tt0016620	2	Bajo las nieblas de Asturias	ES	\N	imdbDisplay	\N	0
+tt0016624	1	El bandido de la sierra	ES	\N	imdbDisplay	\N	0
+tt0016627	14	El caballero del amor	ES	\N	\N	\N	0
+tt0016628	5	La Barrera	ES	\N	\N	\N	0
+tt0016629	3	El murciélago	ES	\N	\N	\N	0
+tt0016630	20	El boxeador	ES	\N	\N	\N	0
+tt0016630	26	El último round	ES	\N	\N	\N	0
+tt0016634	13	Beau Geste	ES	\N	\N	\N	0
+tt0016638	4	Reclutas a retaguardia	ES	\N	\N	\N	0
+tt0016641	9	Ben Hur	ES	\N	\N	\N	0
+tt0016642	11	Reina de Nueva York	ES	\N	imdbDisplay	\N	0
+tt0016643	5	El fresco de las trincheras	ES	\N	\N	\N	0
+tt0016652	8	Sangre de artista	ES	\N	imdbDisplay	\N	0
+tt0016654	7	El pirata negro	ES	\N	imdbDisplay	\N	0
+tt0016655	16	Maldad encubierta	ES	\N	\N	\N	0
+tt0016657	5	El boxear de otros tiempos	ES	\N	\N	\N	0
+tt0016658	7	La diosa ciega	ES	\N	\N	\N	0
+tt0016664	4	El águila azul	ES	\N	\N	\N	0
+tt0016667	10	El Barba Azul americano	ES	\N	\N	\N	0
+tt0016669	9	Vida bohemia	ES	\N	imdbDisplay	\N	0
+tt0016676	4	La montería salvaje	ES	\N	\N	\N	0
+tt0016679	3	El lobo de mar	ES	\N	\N	\N	0
+tt0016680	1	La tragedia del faro	ES	\N	\N	\N	0
+tt0016685	4	Las huérfanas de Hollywood	ES	\N	imdbDisplay	\N	0
+tt0016688	4	Ojos claros	ES	\N	\N	\N	0
+tt0016690	12	La estudiante	ES	\N	imdbDisplay	\N	0
+tt0016698	2	Buscando un tesoro	ES	\N	imdbDisplay	\N	0
+tt0016705	9	La colegiala altiva	ES	\N	\N	\N	0
+tt0016709	7	Carmen	ES	\N	imdbDisplay	\N	0
+tt0016710	2	Carmiña, flor de Galicia	ES	\N	imdbDisplay	\N	0
+tt0016712	2	Carolina, la niña de plata	ES	\N	imdbDisplay	\N	0
+tt0016715	8	Boda convencional	ES	\N	\N	\N	0
+tt0016716	6	De carbonero a gran señor	ES	\N	\N	\N	0
+tt0016717	2	El caíd	ES	\N	imdbDisplay	\N	0
+tt0016720	4	La gran carrera	ES	\N	\N	\N	0
+tt0016721	1	La chica del gato	ES	\N	imdbDisplay	\N	0
+tt0016729	3	La ciudad	ES	\N	imdbDisplay	\N	0
+tt0016730	3	La hiedra	ES	\N	imdbDisplay	\N	0
+tt0016734	6	Amor de estudiante	ES	\N	\N	\N	0
+tt0016738	5	El conde Kostia	ES	\N	\N	\N	0
+tt0016741	2	Corazones y aventuras	ES	\N	imdbDisplay	\N	0
+tt0016742	1	Corazón de reina	ES	\N	imdbDisplay	\N	0
+tt0016743	1	El cabo Catalina	ES	\N	imdbDisplay	\N	0
+tt0016744	4	La hija de Valencia	ES	\N	\N	\N	0
+tt0016751	2	El pirata de los dientes blancos	ES	\N	\N	\N	0
+tt0016752	1	Los cuatro robinsones	ES	\N	imdbDisplay	\N	0
+tt0016753	2	Cuento de lobos	ES	\N	imdbDisplay	\N	0
+tt0016754	5	El rey del K.O.	ES	\N	imdbDisplay	\N	0
+tt0016755	1	El cura de aldea	ES	\N	imdbDisplay	\N	0
+tt0016761	1	Días de baile	ES	\N	\N	\N	0
+tt0016762	10	Madres que bailan	ES	\N	\N	\N	0
+tt0016783	2	El circo del diablo	ES	\N	\N	\N	0
+tt0016799	7	Sin hogar y sin rumbo	ES	\N	imdbDisplay	\N	0
+tt0016802	2	El rey de la perra chica	ES	\N	imdbDisplay	\N	0
+tt0016804	10	Don Juan	ES	\N	imdbDisplay	\N	0
+tt0016806	9	Don Quijote de la Mancha	ES	\N	imdbDisplay	\N	0
+tt0016812	1	La duquesa de Buffalo	ES	\N	\N	\N	0
+tt0016815	3	El águila del mar	ES	\N	\N	\N	0
+tt0016823	5	La colina encantada	ES	\N	\N	\N	0
+tt0016826	2	Ethel fue una mujer ingenua	ES	\N	imdbDisplay	\N	0
+tt0016829	4	La comedia social	ES	\N	\N	\N	0
+tt0016832	4	Cómicos que pasan	ES	\N	\N	\N	0
+tt0016833	9	La elegante pecadora	ES	\N	\N	\N	0
+tt0016834	1	Una extraña aventura de Luis Candelas	ES	\N	imdbDisplay	\N	0
+tt0016844	9	Radiante juventud	ES	\N	\N	\N	0
+tt0016847	8	Fausto	ES	\N	imdbDisplay	\N	0
+tt0016852	2	Fiesta del árbol en el parque	ES	\N	imdbDisplay	\N	0
+tt0016853	3	La quinta avenida	ES	\N	\N	\N	0
+tt0016854	3	Hojas de parra	ES	\N	imdbDisplay	\N	0
+tt0016871	7	Lindos modales	ES	\N	\N	\N	0
+tt0016874	8	Los vencedores del fuego	ES	\N	\N	\N	0
+tt0016876	3	El héroe de la escuadra	ES	\N	imdbDisplay	\N	0
+tt0016878	1	La sirena del Yukón	ES	\N	imdbDisplay	\N	0
+tt0016880	9	El bosque en llamas	ES	\N	imdbDisplay	\N	0
+tt0016881	10	El grito de batalla	ES	\N	\N	\N	0
+tt0016884	14	El demonio y la carne	ES	\N	imdbDisplay	\N	0
+tt0016892	3	Esclavas de su vanidad	ES	\N	\N	\N	0
+tt0016893	8	Ligeritas de cascos	ES	\N	\N	\N	0
+tt0016895	21	Ay, mi madre	ES	\N	\N	\N	0
+tt0016906	1	Frivolinas	ES	\N	imdbDisplay	\N	0
+tt0016915	9	La violinista de Florencia	ES	\N	\N	\N	0
+tt0016921	1	El gigoló	ES	\N	\N	\N	0
+tt0016926	2	La mano de Dios	ES	\N	imdbDisplay	\N	0
+tt0016930	8	La mariposa de oro	ES	\N	imdbDisplay	\N	0
+tt0016931	9	Buena y traviesa	ES	\N	\N	\N	0
+tt0016933	1	Los gorriones del patio	ES	\N	imdbDisplay	\N	0
+tt0016935	5	La gran duquesa y el camarero	ES	\N	\N	\N	0
+tt0016936	1	Gratitud	ES	\N	imdbDisplay	\N	0
+tt0016938	2	La dicha de los demás	ES	\N	\N	\N	0
+tt0016939	10	El asalto al tren expreso	ES	\N	\N	\N	0
+tt0016953	1	La montaña sagrada	ES	\N	\N	\N	0
+tt0016957	8	Qué noche aquella	ES	\N	\N	\N	0
+tt0016958	10	La gobernadora	ES	\N	\N	\N	0
+tt0016969	1	La hija del arroyo	ES	\N	imdbDisplay	\N	0
+tt0016970	2	La hija del mestre	ES	\N	imdbDisplay	\N	0
+tt0016990	1	El idiota	ES	\N	imdbDisplay	\N	0
+tt0017001	4	Odio salvaje	ES	\N	\N	\N	0
+tt0017004	7	It's the Old Army Game	ES	\N	imdbDisplay	\N	0
+tt0017009	6	Juanito, córtate el pelo	ES	\N	imdbDisplay	\N	0
+tt0017010	10	La represa de la muerte	ES	\N	imdbDisplay	\N	0
+tt0017016	1	Justicia divina	ES	\N	imdbDisplay	\N	0
+tt0017020	3	Hijos del mar	ES	\N	imdbDisplay	\N	0
+tt0017022	3	Murmullo primavera de una muñeca de papel	ES	\N	imdbDisplay	\N	0
+tt0017023	2	Del dinero	ES	\N	imdbDisplay	\N	0
+tt0017027	3	La casta Susana	ES	\N	\N	\N	0
+tt0017029	11	Kiki	ES	\N	\N	\N	0
+tt0017047	3	Iván, el terrible	ES	\N	imdbDisplay	\N	0
+tt0017049	9	El amor de una profesora de canto	ES	\N	imdbDisplay	\N	0
+tt0017052	5	Juego de damas	ES	\N	\N	\N	0
+tt0017054	2	El ladrón de los guantes blancos	ES	\N	imdbDisplay	\N	0
+tt0017056	8	La dama del harén	ES	\N	\N	\N	0
+tt0017072	1	Lo más sublime	ES	\N	imdbDisplay	\N	0
+tt0017073	2	La loca de la casa	ES	\N	imdbDisplay	\N	0
+tt0017075	20	El enemigo de las rubias	ES	\N	\N	\N	0
+tt0017086	2	Error matrimonial	ES	\N	\N	\N	0
+tt0017089	8	Amor afortunado	ES	\N	\N	\N	0
+tt0017091	2	Luis Candelas o El bandido de Madrid	ES	\N	imdbDisplay	\N	0
+tt0017096	19	Maciste en el infierno	ES	\N	imdbDisplay	\N	0
+tt0017097	9	Maciste en la jaula de los leones	ES	\N	\N	\N	0
+tt0017100	6	La vida para el amor	ES	\N	imdbDisplay	\N	0
+tt0017101	3	Mademoiselle modista	ES	\N	\N	\N	0
+tt0017104	2	La malcasada	ES	\N	imdbDisplay	\N	0
+tt0017105	2	Malvaloca	ES	\N	imdbDisplay	\N	0
+tt0017115	2	Amor en el oeste	ES	\N	imdbDisplay	\N	0
+tt0017117	6	Orquídea, la modelo	ES	\N	\N	\N	0
+tt0017118	2	Manón Lescaut	ES	\N	\N	\N	0
+tt0017119	7	Flor de capricho	ES	\N	\N	\N	0
+tt0017120	5	Mare Nostrum	ES	\N	\N	\N	0
+tt0017122	5	Corazones y contratos	ES	\N	imdbDisplay	\N	0
+tt0017123	10	Por el hijo	ES	\N	imdbDisplay	\N	0
+tt0017128	23	La madre	ES	\N	\N	\N	0
+tt0017128	7	La mare	ES	ca	\N	\N	0
+tt0017131	5	Magnate ruso	ES	\N	\N	\N	0
+tt0017136	16	Metrópolis	ES	\N	imdbDisplay	\N	0
+tt0017137	10	Miguel Strogoff o El correo del Zar	ES	\N	\N	\N	0
+tt0017144	12	El sol de medianoche	ES	\N	\N	\N	0
+tt0017146	1	Mientras arden las fallas	ES	\N	imdbDisplay	\N	0
+tt0017147	1	Mientras la aldea duerme	ES	\N	imdbDisplay	\N	0
+tt0017154	2	Entre gente bien	ES	\N	\N	\N	0
+tt0017157	9	La desdichada	ES	\N	\N	\N	0
+tt0017158	7	Los millones de Paulina	ES	\N	\N	\N	0
+tt0017162	13	Moana	ES	\N	\N	\N	0
+tt0017167	2	Bajo el cielo de Monte Carlo	ES	\N	\N	\N	0
+tt0017170	3	Más paga y menos trabajo	ES	\N	\N	\N	0
+tt0017172	2	Moros y cristianos	ES	\N	imdbDisplay	\N	0
+tt0017183	2	Muñecas	ES	\N	imdbDisplay	\N	0
+tt0017185	12	Los cadetes del zar	ES	\N	imdbDisplay	\N	0
+tt0017186	4	Caballero a la fuerza	ES	\N	\N	\N	0
+tt0017193	1	El médico a palos	ES	\N	imdbDisplay	\N	0
+tt0017194	2	El místico	ES	\N	imdbDisplay	\N	0
+tt0017195	3	Honor	ES	\N	imdbDisplay	\N	0
+tt0017196	7	Nana	ES	\N	\N	\N	0
+tt0017209	1	Los niños del hospicio	ES	\N	imdbDisplay	\N	0
+tt0017222	3	Vaya una enfermera	ES	\N	imdbDisplay	\N	0
+tt0017226	13	Trípoli	ES	\N	\N	\N	0
+tt0017226	9	Old Ironsides	ES	\N	\N	\N	0
+tt0017236	4	Maridos ajenos	ES	\N	\N	\N	0
+tt0017244	8	La niña de Florida	ES	\N	\N	\N	0
+tt0017245	1	Uno para todos	ES	\N	\N	\N	0
+tt0017248	10	La cámara blindada	ES	\N	\N	\N	0
+tt0017252	6	París a medianoche	ES	\N	\N	\N	0
+tt0017256	1	El patio de los naranjos	ES	\N	imdbDisplay	\N	0
+tt0017265	2	La sombra fugaz	ES	\N	imdbDisplay	\N	0
+tt0017266	1	Pilar Guerra	ES	\N	imdbDisplay	\N	0
+tt0017271	21	Por la ley	ES	\N	imdbDisplay	\N	0
+tt0017273	1	El pollo pera	ES	\N	imdbDisplay	\N	0
+tt0017276	7	El pecado de moda	ES	\N	\N	\N	0
+tt0017277	1	Por fin se casa Zamora	ES	\N	imdbDisplay	\N	0
+tt0017281	2	Primo de Rivera en Caspe y Alcañiz	ES	\N	imdbDisplay	\N	0
+tt0017282	4	Cuando los hombres aman	ES	\N	\N	\N	0
+tt0017293	7	El proceso de los tres millones	ES	\N	\N	\N	0
+tt0017300	3	El campeón del amor	ES	\N	\N	\N	0
+tt0017311	12	Una noche de locura	ES	\N	\N	\N	0
+tt0017311	7	El rata de París	ES	\N	\N	\N	0
+tt0017317	1	Los dados rojos	ES	\N	\N	\N	0
+tt0017326	6	Negocios arriesgados	ES	\N	\N	\N	0
+tt0017328	2	El camino de la gloria	ES	\N	\N	\N	0
+tt0017329	12	La sangre manda	ES	\N	imdbDisplay	\N	0
+tt0017331	5	Amores en Alaska	ES	\N	\N	\N	0
+tt0017338	11	El caballero de la rosa	ES	\N	\N	\N	0
+tt0017340	3	La fugitiva	ES	\N	\N	\N	0
+tt0017344	1	Sandy	ES	\N	imdbDisplay	\N	0
+tt0017347	6	Tarde de sábado	ES	\N	\N	\N	0
+tt0017350	8	La mujer marcada	ES	\N	\N	\N	0
+tt0017354	1	La fiera del mar	ES	\N	\N	\N	0
+tt0017362	1	El secreto de la Pedriza	ES	\N	imdbDisplay	\N	0
+tt0017374	4	La hoja de trébol	ES	\N	\N	\N	0
+tt0017377	6	Las consecuencias del error	ES	\N	imdbDisplay	\N	0
+tt0017378	15	El Capote	ES	\N	\N	\N	0
+tt0017393	3	El tesoro de plata	ES	\N	imdbDisplay	\N	0
+tt0017398	1	La sirena del Cantábrico	ES	\N	imdbDisplay	\N	0
+tt0017401	11	El traje de etiqueta	ES	\N	imdbDisplay	\N	0
+tt0017405	6	Slipping Wives	ES	\N	imdbDisplay	\N	0
+tt0017409	5	La locura del charlestón	ES	\N	imdbDisplay	\N	0
+tt0017411	6	Fígaro en sociedad	ES	\N	\N	\N	0
+tt0017415	3	La madre de todos	ES	\N	imdbDisplay	\N	0
+tt0017416	11	El hijo del caíd	ES	\N	\N	\N	0
+tt0017417	5	De telón adentro	ES	\N	\N	\N	0
+tt0017418	5	El cuarenta y uno	ES	\N	imdbDisplay	\N	0
+tt0017419	15	Las tristezas de Satán	ES	\N	imdbDisplay	\N	0
+tt0017421	2	Lentejuelas	ES	\N	imdbDisplay	\N	0
+tt0017423	5	Gorriones	ES	\N	imdbDisplay	\N	0
+tt0017424	4	La Venus de la velocidad	ES	\N	\N	\N	0
+tt0017433	7	Stop, Look and Listen	ES	\N	imdbDisplay	\N	0
+tt0017437	11	El hombre cañón	ES	\N	imdbDisplay	\N	0
+tt0017438	14	El estudiante de Praga	ES	\N	\N	\N	0
+tt0017440	2	Solteros de verano	ES	\N	imdbDisplay	\N	0
+tt0017441	5	Su primer éxito	ES	\N	imdbDisplay	\N	0
+tt0017448	15	Tartufo o el hipócrita	ES	\N	dvd	\N	0
+tt0017448	19	Tartufo	ES	\N	\N	\N	0
+tt0017448	9	El hipócrita	ES	\N	imdbDisplay	\N	0
+tt0017449	13	La tierra de todos	ES	\N	\N	\N	0
+tt0017457	1	La modelo de París	ES	\N	\N	\N	0
+tt0017458	3	Amor al vuelo	ES	\N	\N	\N	0
+tt0017463	14	Tres hombres malos	ES	\N	\N	\N	0
+tt0017469	2	Flor de Valencia	ES	\N	\N	\N	0
+tt0017475	2	El tiro de gracia	ES	\N	imdbDisplay	\N	0
+tt0017483	5	Un sportman de ocasión	ES	\N	\N	\N	0
+tt0017492	6	La chica del arroyo	ES	\N	imdbDisplay	\N	0
+tt0017502	3	El soldado desconocido	ES	\N	imdbDisplay	\N	0
+tt0017505	2	La dama indómita	ES	\N	\N	\N	0
+tt0017508	11	Entre bastidores	ES	\N	imdbDisplay	\N	0
+tt0017515	9	La escuadra hundida	ES	\N	imdbDisplay	\N	0
+tt0017518	5	Cómo nace una pasión	ES	\N	\N	\N	0
+tt0017519	14	Los bateleros del Volga	ES	\N	\N	\N	0
+tt0017527	7	Nobleza de un piel roja	ES	\N	imdbDisplay	\N	0
+tt0017532	3	Reclutas sobre las olas	ES	\N	\N	\N	0
+tt0017534	10	El cadete de West Point	ES	\N	imdbDisplay	\N	0
+tt0017540	18	El precio de la gloria	ES	\N	imdbDisplay	\N	0
+tt0017550	5	Vía libre	ES	\N	\N	\N	0
+tt0017551	3	La hora fatal	ES	\N	\N	\N	0
+tt0017552	12	La tierra del moro	ES	\N	imdbDisplay	\N	0
+tt0017554	4	Qué escándalo	ES	\N	\N	\N	0
+tt0017555	5	Por qué las jóvenes regresan al hogar	ES	\N	\N	\N	0
+tt0017567	7	Flor del desierto	ES	\N	imdbDisplay	\N	0
+tt0017581	5	La mujer y el harén	ES	\N	\N	\N	0
+tt0017584	4	Ballet ruso	ES	\N	\N	\N	0
+tt0017586	7	El joven príncipe	ES	\N	\N	\N	0
+tt0017588	1	El pecado de Adán	ES	\N	\N	\N	0
+tt0017590	6	Deben casarse las bailarinas	ES	\N	\N	\N	0
+tt0017591	3	Una llama en el cielo	ES	\N	\N	\N	0
+tt0017593	3	Después de medianoche	ES	\N	\N	\N	0
+tt0017594	6	La agonía de Jerusalén	ES	\N	\N	\N	0
+tt0017597	2	Lo más español	ES	\N	\N	new title	0
+tt0017599	3	Ladrones a bordo	ES	\N	\N	\N	0
+tt0017617	3	Maldita memoria	ES	\N	\N	\N	0
+tt0017618	3	Al agua patos	ES	\N	imdbDisplay	\N	0
+tt0017619	3	Como los hombres	ES	\N	\N	\N	0
+tt0017621	17	Mandrágora	ES	\N	\N	\N	0
+tt0017622	1	Altares del deseo	ES	\N	\N	\N	0
+tt0017626	10	La presumida	ES	\N	\N	\N	0
+tt0017628	2	Los amores de un torero	ES	\N	imdbDisplay	\N	0
+tt0017628	3	Bombones y caireles	ES	\N	working	\N	0
+tt0017628	4	El tintorerito	ES	\N	working	\N	0
+tt0017632	16	Sangre escocesa	ES	\N	\N	\N	0
+tt0017635	2	Los aparecidos	ES	\N	imdbDisplay	\N	0
+tt0017637	9	Camino de Arizona	ES	\N	\N	\N	0
+tt0017639	2	El minero de Arizona	ES	\N	imdbDisplay	\N	0
+tt0017647	4	Corazón de oro	ES	\N	\N	\N	0
+tt0017650	2	Una aventura de cine	ES	\N	imdbDisplay	\N	0
+tt0017653	18	El pueblo del pecado	ES	\N	imdbDisplay	\N	0
+tt0017655	5	La vuelta al paraíso	ES	\N	imdbDisplay	\N	0
+tt0017658	3	La Marieta de l'ull viu	ES	ca	\N	\N	0
+tt0017659	5	El hijo del bandido	ES	\N	\N	\N	0
+tt0017662	11	Las eternas pasiones	ES	\N	imdbDisplay	\N	0
+tt0017663	1	Batalla de damas	ES	\N	imdbDisplay	\N	0
+tt0017666	2	Corazón sincero	ES	\N	\N	\N	0
+tt0017667	4	El vagabundo poeta	ES	\N	imdbDisplay	\N	0
+tt0017668	1	Berlín, sinfonía de una ciudad	ES	\N	\N	\N	0
+tt0017669	3	El estudiante pobre	ES	\N	alternative	\N	0
+tt0017672	8	Ojo con las viudas	ES	\N	\N	\N	0
+tt0017673	2	Bigamia	ES	\N	imdbDisplay	\N	0
+tt0017675	3	En las garras del deshonor	ES	\N	imdbDisplay	\N	0
+tt0017676	6	Boda sin amor	ES	\N	imdbDisplay	\N	0
+tt0017682	1	Dies abrasadors	ES	ca	\N	\N	0
+tt0017682	5	Ardores pasados	ES	\N	\N	\N	0
+tt0017685	6	¿Cuál de las dos?	ES	\N	imdbDisplay	\N	0
+tt0017686	2	Las rubias son preferidas	ES	\N	\N	\N	0
+tt0017687	6	La nave sangrienta	ES	\N	\N	\N	0
+tt0017689	3	Cruel dilema	ES	\N	\N	\N	0
+tt0017692	4	El caballero alerta	ES	\N	\N	\N	0
+tt0017698	5	La reina del Boulevard	ES	\N	\N	\N	0
+tt0017699	1	Su fiel defensor	ES	\N	\N	\N	0
+tt0017703	4	El dueto errante	ES	\N	\N	\N	0
+tt0017707	3	La puerta rota	ES	\N	\N	\N	0
+tt0017709	1	Nada de tiros	ES	\N	imdbDisplay	\N	0
+tt0017711	7	Cuando el amor despierta	ES	\N	imdbDisplay	\N	0
+tt0017714	3	El pequeño cornetín	ES	\N	\N	\N	0
+tt0017715	10	Los tártaros	ES	\N	imdbDisplay	\N	0
+tt0017722	2	El botones	ES	\N	\N	\N	0
+tt0017724	8	Cabaret	ES	\N	imdbDisplay	\N	0
+tt0017726	5	Café Elektric	ES	\N	imdbDisplay	\N	0
+tt0017727	1	California	ES	\N	\N	\N	0
+tt0017731	14	Margarita Gautier	ES	\N	\N	\N	0
+tt0017732	3	Deuda saldada	ES	\N	\N	\N	0
+tt0017734	2	El Capote de paseo	ES	\N	imdbDisplay	\N	0
+tt0017736	1	Casanova	ES	\N	\N	\N	0
+tt0017737	4	El tren número 39	ES	\N	\N	\N	0
+tt0017738	4	Anda, Casiano	ES	\N	imdbDisplay	\N	0
+tt0017739	4	El legado tenebroso	ES	\N	\N	\N	0
+tt0017742	5	El rayo	ES	\N	imdbDisplay	\N	0
+tt0017743	13	Chang	ES	\N	\N	\N	0
+tt0017746	1	Burla burlando	ES	\N	\N	\N	0
+tt0017747	8	El barón de incógnito	ES	\N	\N	\N	0
+tt0017751	9	Los hijos del divorcio	ES	\N	imdbDisplay	\N	0
+tt0017752	1	El loro chino	ES	\N	\N	\N	0
+tt0017755	5	La ciudad del mal	ES	\N	\N	\N	0
+tt0017756	3	Rivalidad comercial	ES	\N	\N	\N	0
+tt0017760	3	Puertas cerradas	ES	\N	\N	\N	0
+tt0017765	19	El colegial	ES	\N	\N	\N	0
+tt0017766	8	El héroe del colegio	ES	\N	\N	\N	0
+tt0017767	2	La colegiala coqueta	ES	\N	imdbDisplay	\N	0
+tt0017769	2	Ven a mi casa	ES	\N	imdbDisplay	\N	0
+tt0017771	1	El conde de Maravillas	ES	\N	imdbDisplay	\N	0
+tt0017772	2	La condesa María	ES	\N	imdbDisplay	\N	0
+tt0017776	9	El médico rural	ES	\N	imdbDisplay	\N	0
+tt0017777	4	El cobarde	ES	\N	\N	\N	0
+tt0017778	7	Donde las dan, las toman	ES	\N	\N	\N	0
+tt0017781	1	Estrella de circo	ES	\N	imdbDisplay	\N	0
+tt0017783	4	Cruel verdad	ES	\N	\N	\N	0
+tt0017785	2	Mujer a pesar suyo	ES	\N	\N	\N	0
+tt0017792	1	La magia del baile	ES	\N	\N	\N	0
+tt0017795	2	Hijo mío	ES	\N	imdbDisplay	\N	0
+tt0017798	1	Del schottis al charlestón	ES	\N	imdbDisplay	\N	0
+tt0017800	8	Lances del querer	ES	\N	\N	\N	0
+tt0017805	3	El crimen del Sol	ES	\N	imdbDisplay	\N	0
+tt0017806	9	La danzarina sagrada	ES	\N	imdbDisplay	\N	0
+tt0017809	12	La muchacha de la sombrerera	ES	\N	\N	\N	0
+tt0017812	4	Tragedia de una prostituta o la tragedia de la calle	ES	\N	\N	\N	0
+tt0017821	1	El dos de Mayo	ES	\N	imdbDisplay	\N	0
+tt0017822	8	El mejor caballero	ES	\N	\N	\N	0
+tt0017825	2	Declive	ES	\N	\N	video box title	0
+tt0017829	8	El cadete	ES	\N	\N	\N	0
+tt0017832	10	La gran jugada	ES	\N	imdbDisplay	\N	0
+tt0017840	3	Labios sedientos	ES	\N	\N	\N	0
+tt0017841	6	Titanic	ES	\N	imdbDisplay	\N	0
+tt0017843	18	Easy virtue	ES	\N	dvd	\N	0
+tt0017843	20	Vida Alegre	ES	\N	imdbDisplay	\N	0
+tt0017848	1	En la tierra del sol	ES	\N	imdbDisplay	\N	0
+tt0017850	14	El enemigo	ES	\N	\N	\N	0
+tt0017851	1	Es mi hombre	ES	\N	imdbDisplay	\N	0
+tt0017852	3	Esperanza o La presa del diablo	ES	\N	imdbDisplay	\N	0
+tt0017853	1	Las estrellas	ES	\N	imdbDisplay	\N	0
+tt0017854	1	Estudiantes y modistillas	ES	\N	imdbDisplay	\N	0
+tt0017856	8	El vestido de etiqueta	ES	\N	imdbDisplay	\N	0
+tt0017860	4	La gloria del colegio	ES	\N	\N	\N	0
+tt0017865	3	La reina de la moda	ES	\N	imdbDisplay	\N	0
+tt0017866	10	El señor Huracán	ES	\N	\N	\N	0
+tt0017867	1	Fatal dominio	ES	\N	imdbDisplay	\N	0
+tt0017877	7	Águilas triunfantes	ES	\N	\N	\N	0
+tt0017881	5	La comedia de los celos	ES	\N	imdbDisplay	\N	0
+tt0017885	1	Reclutas bomberos	ES	\N	\N	\N	0
+tt0017887	2	La primera noche	ES	\N	\N	\N	0
+tt0017892	1	Flores silvestres	ES	\N	imdbDisplay	\N	0
+tt0017898	9	Los tres papás	ES	\N	\N	\N	0
+tt0017901	4	La mujer fatal	ES	\N	\N	\N	0
+tt0017902	7	Los diablos amarillos	ES	\N	\N	\N	0
+tt0017919	4	Joaquín Murrieta	ES	\N	\N	\N	0
+tt0017921	4	Con bombos y cohetes	ES	\N	imdbDisplay	\N	0
+tt0017922	5	La cautiva de Shanghai	ES	\N	\N	\N	0
+tt0017925	16	El maquinista de La General	ES	\N	imdbDisplay	\N	0
+tt0017928	14	No lo dejes escapar	ES	\N	imdbDisplay	\N	0
+tt0017929	8	La liga de Gertie	ES	\N	imdbDisplay	\N	0
+tt0017931	4	Corazones al por mayor	ES	\N	imdbDisplay	\N	0
+tt0017938	2	El espejo de las tres caras	ES	\N	\N	\N	0
+tt0017947	7	El gorila	ES	\N	\N	\N	0
+tt0017960	3	La bella desnuda	ES	\N	imdbDisplay	\N	0
+tt0017961	14	La felicidad	ES	\N	imdbDisplay	\N	0
+tt0017966	2	El solitario	ES	\N	imdbDisplay	\N	0
+tt0017967	7	Fuera sombreros	ES	\N	imdbDisplay	\N	0
+tt0017972	4	Un Don Juan	ES	\N	imdbDisplay	\N	0
+tt0017973	1	La campana de alarma	ES	\N	imdbDisplay	\N	0
+tt0017979	16	La vida privada de Helena de Troya	ES	\N	\N	\N	0
+tt0017983	2	La hermana San Sulpicio	ES	\N	imdbDisplay	\N	0
+tt0017992	5	La escuela de Cupido	ES	\N	imdbDisplay	\N	0
+tt0017993	2	Los hijos del trabajo	ES	\N	imdbDisplay	\N	0
+tt0017998	1	La novela de una obrera	ES	\N	imdbDisplay	\N	0
+tt0018002	1	La historia de un duro	ES	\N	imdbDisplay	\N	0
+tt0018003	1	Historia de un taxi	ES	\N	imdbDisplay	\N	0
+tt0018011	6	El recluta	ES	\N	\N	\N	0
+tt0018014	8	Hotel Imperial	ES	\N	\N	\N	0
+tt0018016	5	Hula	ES	\N	\N	\N	0
+tt0018018	1	A caza de maridos	ES	\N	\N	\N	0
+tt0018018	3	A la caza de maridos	ES	\N	\N	\N	0
+tt0018020	2	Los héroes de la legión	ES	\N	imdbDisplay	\N	0
+tt0018023	2	La ilustre fregona	ES	\N	imdbDisplay	\N	0
+tt0018024	5	La canción de Kentucky	ES	\N	\N	\N	0
+tt0018028	1	Corazones irlandeses	ES	\N	\N	\N	0
+tt0018029	5	El galán irresistible	ES	\N	\N	\N	0
+tt0018030	10	Gente de guantes	ES	\N	imdbDisplay	\N	0
+tt0018033	1	Ello	ES	\N	imdbDisplay	\N	0
+tt0018034	1	Jacobito Castigador	ES	\N	imdbDisplay	\N	0
+tt0018037	12	El cantor de Jazz	ES	\N	imdbDisplay	\N	0
+tt0018037	39	El ídolo de Broadway	ES	\N	alternative	\N	0
+tt0018037	8	El cantante de Jazz	ES	\N	alternative	\N	0
+tt0018038	6	Ajustando cuentas	ES	\N	alternative	\N	0
+tt0018040	5	Como el cambiante corazón de un pájaro	ES	\N	imdbDisplay	\N	0
+tt0018041	2	Jim el conquistador	ES	\N	\N	\N	0
+tt0018045	15	Jaque a la reina	ES	\N	\N	\N	0
+tt0018046	5	La chica alegre	ES	\N	imdbDisplay	\N	0
+tt0018047	1	El desertor	ES	\N	imdbDisplay	\N	0
+tt0018051	17	El hermanito	ES	\N	\N	\N	0
+tt0018052	2	La hermana menor	ES	\N	imdbDisplay	\N	0
+tt0018054	5	El rey de reyes	ES	\N	\N	\N	0
+tt0018060	5	Gratitud al emperador	ES	\N	imdbDisplay	\N	0
+tt0018066	19	El fin de San Petersburgo	ES	\N	\N	\N	0
+tt0018069	1	La del Soto del Parral	ES	\N	imdbDisplay	\N	0
+tt0018072	4	Señoras, échense algo encima	ES	\N	\N	\N	0
+tt0018074	10	La dama del armiño	ES	\N	imdbDisplay	\N	0
+tt0018078	2	Las de Méndez	ES	\N	imdbDisplay	\N	0
+tt0018085	2	El león de Sierra Morena	ES	\N	imdbDisplay	\N	0
+tt0018087	19	El amor de Jeanne Ney	ES	\N	imdbDisplay	\N	0
+tt0018087	22	Bajo la máscara del placer	ES	\N	\N	\N	0
+tt0018097	8	La casa del horror	ES	\N	\N	\N	0
+tt0018098	7	El águila solitaria	ES	\N	imdbDisplay	\N	0
+tt0018102	6	Sus primeros pantalones	ES	\N	\N	\N	0
+tt0018104	5	A salvarse tocan	ES	\N	\N	\N	0
+tt0018107	19	Ana Karenina	ES	\N	\N	\N	0
+tt0018109	12	El mercado del amor	ES	\N	\N	\N	0
+tt0018110	7	Cadena perpetua	ES	\N	imdbDisplay	\N	0
+tt0018113	3	El amor de Sonia	ES	\N	imdbDisplay	\N	0
+tt0018114	5	El gran error	ES	\N	imdbDisplay	\N	0
+tt0018117	4	Amantes	ES	\N	\N	\N	0
+tt0018118	6	Los amores de Carmen	ES	\N	imdbDisplay	\N	0
+tt0018127	3	Madame Pompadour	ES	\N	\N	\N	0
+tt0018128	2	Madame visita Oslo - Novela filmada en siete partes	ES	\N	\N	informal literal title	0
+tt0018129	4	La llama mágica	ES	\N	imdbDisplay	\N	0
+tt0018134	3	El hombre que triunfó	ES	\N	\N	\N	0
+tt0018137	13	Ráfagas del pasado	ES	\N	imdbDisplay	\N	0
+tt0018139	12	El circo trágico	ES	\N	imdbDisplay	\N	0
+tt0018147	7	La señora del antifaz	ES	\N	imdbDisplay	\N	0
+tt0018148	2	Flor de cabaret	ES	\N	\N	\N	0
+tt0018150	1	The Mechanical Cow	ES	\N	imdbDisplay	\N	0
+tt0018155	8	Los maestros cantores de Nuremberg	ES	\N	\N	\N	0
+tt0018166	9	La novela de un mujik	ES	\N	\N	\N	0
+tt0018170	8	Habla el mono	ES	\N	imdbDisplay	\N	0
+tt0018173	5	Moscou a l'octubre	ES	ca	\N	\N	0
+tt0018175	1	Amor de hermano	ES	\N	\N	\N	0
+tt0018178	1	La moza del cántaro	ES	\N	imdbDisplay	\N	0
+tt0018179	13	Mr. Wu	ES	\N	\N	\N	0
+tt0018181	7	El maestro de música	ES	\N	imdbDisplay	\N	0
+tt0018182	2	La muñeca rota	ES	\N	imdbDisplay	\N	0
+tt0018183	11	Mi chica preferida	ES	\N	\N	\N	0
+tt0018183	2	La pequeña vendedora	ES	\N	\N	\N	0
+tt0018185	5	El jinete misterioso	ES	\N	imdbDisplay	\N	0
+tt0018187	6	El misterio de la torre Eiffel	ES	\N	\N	\N	0
+tt0018190	2	Munich-Berlín, viaje a pie	ES	\N	imdbDisplay	\N	0
+tt0018192	3	Napoleón	ES	\N	imdbDisplay	\N	0
+tt0018194	4	La suerte de la fea	ES	\N	imdbDisplay	\N	0
+tt0018197	6	El negro que tenía el alma blanca	ES	\N	imdbDisplay	\N	0
+tt0018199	9	Nevada	ES	\N	\N	\N	0
+tt0018200	2	Nueva York	ES	\N	imdbDisplay	\N	0
+tt0018202	4	Por ella	ES	\N	imdbDisplay	\N	0
+tt0018203	6	Venganza gitana	ES	\N	imdbDisplay	\N	0
+tt0018211	4	Reclutas por los aires	ES	\N	\N	\N	0
+tt0018217	7	Octubre	ES	\N	\N	\N	0
+tt0018218	3	Orgullo de raza	ES	\N	\N	\N	0
+tt0018233	4	A campo libre	ES	\N	\N	\N	0
+tt0018234	2	La noche de una vida	ES	\N	imdbDisplay	\N	0
+tt0018235	12	De telefonista a millonaria	ES	\N	imdbDisplay	\N	0
+tt0018238	1	El orgullo de Albacete	ES	\N	imdbDisplay	\N	0
+tt0018239	9	Oriente Express	ES	\N	imdbDisplay	\N	0
+tt0018240	2	Una noche serrana	ES	\N	\N	\N	0
+tt0018243	5	La banda del Río Rojo	ES	\N	imdbDisplay	\N	0
+tt0018247	5	Érase una vez un príncipe	ES	\N	imdbDisplay	\N	0
+tt0018248	2	Jacas pintadas	ES	\N	\N	\N	0
+tt0018249	1	Ligero de cascos	ES	\N	\N	\N	0
+tt0018252	1	Paraíso para dos	ES	\N	\N	\N	0
+tt0018253	8	El mundo que nace	ES	\N	\N	\N	0
+tt0018263	2	El pilluelo de Madrid	ES	\N	imdbDisplay	\N	0
+tt0018272	7	El apocado	ES	\N	\N	\N	0
+tt0018281	1	Primo de Rivera en Zaragoza	ES	\N	imdbDisplay	\N	0
+tt0018282	6	El príncipe de los camareros	ES	\N	imdbDisplay	\N	0
+tt0018287	3	La tragedia de Rusia	ES	\N	imdbDisplay	\N	0
+tt0018297	8	La llamada del corazón	ES	\N	imdbDisplay	\N	0
+tt0018301	2	Su mejor carrera	ES	\N	\N	\N	0
+tt0018308	1	Raza de hidalgos	ES	\N	imdbDisplay	\N	0
+tt0018312	4	Los jinetes rojos	ES	\N	imdbDisplay	\N	0
+tt0018315	1	El Relicario de Joseito	ES	\N	imdbDisplay	\N	0
+tt0018321	2	El rey de copas	ES	\N	imdbDisplay	\N	0
+tt0018328	8	El ring	ES	\N	\N	\N	0
+tt0018332	4	El caballero pirata	ES	\N	\N	\N	0
+tt0018334	2	Rocío del Albaicín	ES	\N	\N	\N	0
+tt0018339	2	Rosa de Madrid	ES	\N	imdbDisplay	\N	0
+tt0018341	1	Rosas y espinas	ES	\N	imdbDisplay	\N	0
+tt0018343	5	Rosa de California	ES	\N	imdbDisplay	\N	0
+tt0018345	9	Rosa, la revoltosa	ES	\N	\N	\N	0
+tt0018351	3	Loco de atar	ES	\N	\N	\N	0
+tt0018365	3	Las piernas más bonitas de Berlín	ES	\N	\N	\N	0
+tt0018369	5	El estudio secreto	ES	\N	imdbDisplay	\N	0
+tt0018370	2	Nos veremos en la cárcel	ES	\N	imdbDisplay	\N	0
+tt0018373	3	El heredero de su excelencia	ES	\N	imdbDisplay	\N	0
+tt0018376	4	Serenata	ES	\N	imdbDisplay	\N	0
+tt0018377	13	Al servicio de las damas	ES	\N	\N	\N	0
+tt0018379	3	El 7º cielo	ES	\N	dvd	\N	0
+tt0018379	7	El séptimo cielo	ES	\N	\N	\N	0
+tt0018380	2	El señor Don Juan Tenorio	ES	\N	imdbDisplay	\N	0
+tt0018381	3	La nieta del 'Zorro'	ES	\N	\N	\N	0
+tt0018386	11	Este hombre me gusta	ES	\N	\N	\N	0
+tt0018389	6	Emigrantes	ES	\N	\N	\N	0
+tt0018397	6	El palacio de las maravillas	ES	\N	\N	\N	0
+tt0018402	1	Piernas de seda	ES	\N	\N	\N	0
+tt0018403	8	Medias de seda	ES	\N	\N	\N	0
+tt0018409	7	La clave de la dicha	ES	\N	imdbDisplay	\N	0
+tt0018412	7	Esclavos de la belleza	ES	\N	imdbDisplay	\N	0
+tt0018429	7	El capitán Sorrell	ES	\N	\N	\N	0
+tt0018430	1	Sortilegio	ES	\N	imdbDisplay	\N	0
+tt0018432	5	Venganza amorosa	ES	\N	imdbDisplay	\N	0
+tt0018433	2	Por encomienda postal	ES	\N	imdbDisplay	\N	0
+tt0018438	6	El amor pudo más	ES	\N	\N	\N	0
+tt0018439	10	Glorias ajenas	ES	\N	imdbDisplay	\N	0
+tt0018440	3	Fiebre de primavera	ES	\N	\N	\N	0
+tt0018442	3	La rosa de los vientos	ES	\N	imdbDisplay	\N	0
+tt0018447	9	Los húsares de la reina	ES	\N	\N	\N	0
+tt0018448	4	Placeres robados	ES	\N	\N	\N	0
+tt0018450	4	¡Abandonada!	ES	\N	imdbDisplay	\N	0
+tt0018451	6	El príncipe estudiante	ES	\N	\N	\N	0
+tt0018454	4	El tango fatal	ES	\N	\N	\N	0
+tt0018455	19	Amanecer	ES	\N	\N	\N	0
+tt0018457	10	Rendición	ES	\N	\N	\N	0
+tt0018459	8	Nada, niña, nada	ES	\N	\N	\N	0
+tt0018464	13	Tarzán y el león dorado	ES	\N	imdbDisplay	\N	0
+tt0018466	4	Taxi! Taxi!	ES	\N	\N	\N	0
+tt0018467	2	Té para tres	ES	\N	\N	\N	0
+tt0018469	5	Tejados de vidrio	ES	\N	imdbDisplay	\N	0
+tt0018470	2	A toda máquina	ES	\N	\N	\N	0
+tt0018471	15	¡Viva la marina!	ES	\N	dvd	\N	0
+tt0018471	6	El sargento malacara	ES	\N	imdbDisplay	\N	0
+tt0018474	10	Odisea de una duquesa	ES	\N	imdbDisplay	\N	0
+tt0018476	1	Escenas de la vida de Santa Teresa (1927)	ES	\N	alternative	\N	0
+tt0018476	3	Teresa de Jesús	ES	\N	imdbDisplay	\N	0
+tt0018477	1	La terrible lección	ES	\N	imdbDisplay	\N	0
+tt0018482	7	Tres horas de una vida	ES	\N	\N	\N	0
+tt0018486	6	La tigresa	ES	\N	imdbDisplay	\N	0
+tt0018491	6	La terrible Lola	ES	\N	\N	\N	0
+tt0018495	1	El tonto de Lagartera	ES	\N	imdbDisplay	\N	0
+tt0018502	1	El tren - La pastora que supo amar	ES	\N	imdbDisplay	\N	0
+tt0018504	2	El tren	ES	\N	imdbDisplay	\N	0
+tt0018511	3	Río turbulento	ES	\N	imdbDisplay	\N	0
+tt0018512	2	Delicias turcas	ES	\N	\N	\N	0
+tt0018513	10	Filibusteros modernos	ES	\N	\N	\N	0
+tt0018515	20	Hermanos de armas	ES	\N	\N	\N	0
+tt0018517	7	Dos viejos verdes	ES	\N	\N	\N	0
+tt0018520	2	La tía Ramona	ES	\N	imdbDisplay	\N	0
+tt0018523	18	Un sombrero de paja de Italia	ES	\N	imdbDisplay	\N	0
+tt0018524	5	La cabaña del tío Tom	ES	\N	\N	\N	0
+tt0018526	6	La ley del hampa	ES	\N	imdbDisplay	\N	0
+tt0018527	6	¡Juventud!	ES	\N	imdbDisplay	\N	0
+tt0018528	10	Lo desconocido	ES	\N	dvd	\N	0
+tt0018528	20	Garras humanas	ES	\N	\N	\N	0
+tt0018530	7	Ser o no ser	ES	\N	imdbDisplay	\N	0
+tt0018531	9	El valle de los gigantes	ES	\N	imdbDisplay	\N	0
+tt0018534	1	Los vencedores de la muerte	ES	\N	imdbDisplay	\N	0
+tt0018535	1	La Venus de Venecia	ES	\N	\N	\N	0
+tt0018538	3	El correo de Napoleón	ES	\N	imdbDisplay	\N	0
+tt0018541	1	La virgen del mar	ES	\N	imdbDisplay	\N	0
+tt0018549	1	Condena de amor	ES	\N	imdbDisplay	\N	0
+tt0018550	2	La vida es un azar	ES	\N	\N	\N	0
+tt0018553	6	La araña blanca	ES	\N	imdbDisplay	\N	0
+tt0018559	4	¿Qué le pasa a papá?	ES	\N	imdbDisplay	\N	0
+tt0018566	17	Los amores de Manon	ES	\N	imdbDisplay	\N	0
+tt0018568	1	El Torbellino de la juventud	ES	\N	\N	\N	0
+tt0018571	9	El toisón de oro	ES	\N	imdbDisplay	\N	0
+tt0018578	35	Alas	ES	\N	\N	\N	0
+tt0018579	2	Por la razón y la fuerza	ES	\N	\N	\N	0
+tt0018584	2	El brujo	ES	\N	\N	\N	0
+tt0018594	3	La que odiaba a los hombres	ES	\N	\N	\N	0
+tt0018595	6	La mujer adora los brillantes	ES	\N	\N	\N	0
+tt0018601	3	El velero yanqui	ES	\N	imdbDisplay	\N	0
+tt0018606	1	La espada de la penitencia	ES	\N	imdbDisplay	\N	0
+tt0018606	3	La espada del arrepentimiento	ES	\N	imdbDisplay	\N	0
+tt0018608	2	Águilas de acero o los misterios de Tánger	ES	\N	imdbDisplay	\N	0
+tt0018609	2	La última cita	ES	\N	imdbDisplay	\N	0
+tt0018610	1	El único testigo	ES	\N	imdbDisplay	\N	0
+tt0018613	6	Rosa de Irlanda	ES	\N	imdbDisplay	\N	0
+tt0018618	21	La ruta de Singapore	ES	\N	imdbDisplay	\N	0
+tt0018622	2	Adoración	ES	\N	imdbDisplay	\N	0
+tt0018632	2	Agustina de Aragón	ES	\N	imdbDisplay	\N	0
+tt0018633	5	Por la ruta de los cielos	ES	\N	\N	\N	0
+tt0018637	4	Alejandro, el Grande	ES	\N	imdbDisplay	\N	0
+tt0018638	4	Jimmy el misterioso	ES	\N	imdbDisplay	\N	0
+tt0018641	2	Almas errantes	ES	\N	imdbDisplay	\N	0
+tt0018647	8	A la caza del hombre	ES	\N	imdbDisplay	\N	0
+tt0018649	7	El apache	ES	\N	imdbDisplay	\N	0
+tt0018662	4	Avalancha	ES	\N	imdbDisplay	\N	0
+tt0018665	2	Una aventura de Hilario Martínez	ES	\N	imdbDisplay	\N	0
+tt0018668	8	A quien dios no le da hijos	ES	\N	\N	\N	0
+tt0018671	5	Balaclava	ES	\N	imdbDisplay	\N	0
+tt0018674	17	El barquero	ES	\N	imdbDisplay	\N	0

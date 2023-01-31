@@ -1,0 +1,61 @@
+PANTALLAS
+Login
+  - ValidarUsuario()
+Registro
+  - RegistrarUsuario()
+Menu
+  - ObtenerObras(Filtros)
+  - ObtenerListas()
+Catalogo
+  - ObtenerPelicula/Serie(Filtros)
+Administrar
+  - ObtenerObras(Filtros)
+Eliminar Producto
+  - EliminarObra()
+Crear Producto
+  - CrearObra()
+  - EditarObra()
+Social
+  - Buscar en la tabla listas-usuario de los usuarios que sigues y ver su actividad reciente?
+Otro usuario
+  - ObtenerUsuario() //devuelva nombre(listas), listas(listas)
+  - ObtenerSeguidores(tabla seguir)
+  - SeguirUsuario()
+pelicula
+  - MarcarViendo/Favorita/Siguiendo
+  - Lo del foro de cada obra
+Usuario
+  - ObtenerUsuario()
+Editar perfil
+  - EditarUsuario()
+
+-------------------------------------------
+FICHEROS DAO
+Usuario
+  - ValidarUsuario()  para el login
+  - RegistrarUsuario() para el registro
+  - ObtenerUsuario() 
+Seguir
+  - SeguirUsuario()
+  - ObtenerSeguidores()
+Usuario_Lista
+  - ObtenerListas(User) con el usuario podemos obtener el id de las listas que tiene
+Lista
+  - ObtenerListasNombre() de las listas que tiene se pueden filtrar por nombre
+  - CrearLista()
+Lista_Obra
+  - ObtenerObrasLista() de estas listas obtener el id de las obras
+Obra
+  - ObtenerObras() de estas idObras/nombre sacar resto info
+  - CrearObra()
+  - EditarObra()
+  - EliminarObra()
+Película
+  - 
+Serie
+  - 
+Obra_Persona
+  - ObtenerPersonaObra() ver que personas han trabajado enuna obra
+Persona
+  - ObtenerPersona() a partir del Id/nombre de una persona obtener el resto de la info
+
